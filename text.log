@@ -1,0 +1,2129 @@
+c2:20:35 PM - Starting compilation in watch mode...
+
+ UPDATE  The latest version of `serve` is 14.2.3
+ INFO  Accepting connections at http://localhost:54198
+
+2:20:35 PM - Found 0 errors. Watching for file changes.
+ HTTP  7/3/2024 2:21:15 PM 127.0.0.1 GET /
+ HTTP  7/3/2024 2:21:15 PM 127.0.0.1 Returned 200 in 72 ms
+ HTTP  7/3/2024 2:21:16 PM 127.0.0.1 GET /static/logos/wled.png
+ HTTP  7/3/2024 2:21:16 PM 127.0.0.1 GET /static/logos/tasmota.svg
+ HTTP  7/3/2024 2:21:16 PM 127.0.0.1 GET /static/logos/espeasy.png
+ HTTP  7/3/2024 2:21:16 PM 127.0.0.1 GET /static/logos/squeezelite-esp32.png
+ HTTP  7/3/2024 2:21:16 PM 127.0.0.1 GET /static/logos/esphome.svg
+ HTTP  7/3/2024 2:21:16 PM 127.0.0.1 Returned 200 in 4 ms
+ HTTP  7/3/2024 2:21:16 PM 127.0.0.1 GET /static/logos/canairio.png
+ HTTP  7/3/2024 2:21:16 PM 127.0.0.1 Returned 200 in 8 ms
+ HTTP  7/3/2024 2:21:16 PM 127.0.0.1 Returned 200 in 8 ms
+ HTTP  7/3/2024 2:21:16 PM 127.0.0.1 Returned 200 in 8 ms
+ HTTP  7/3/2024 2:21:16 PM 127.0.0.1 GET /static/logos/2smart.png
+ HTTP  7/3/2024 2:21:16 PM 127.0.0.1 GET /static/logos/clockwise.png
+ HTTP  7/3/2024 2:21:16 PM 127.0.0.1 Returned 200 in 9 ms
+ HTTP  7/3/2024 2:21:16 PM 127.0.0.1 GET /static/logos/luciferin_logo.png
+ HTTP  7/3/2024 2:21:16 PM 127.0.0.1 GET /static/logos/openepaperlink.png
+ HTTP  7/3/2024 2:21:16 PM 127.0.0.1 Returned 200 in 9 ms
+ HTTP  7/3/2024 2:21:16 PM 127.0.0.1 Returned 200 in 4 ms
+ HTTP  7/3/2024 2:21:16 PM 127.0.0.1 Returned 200 in 5 ms
+ HTTP  7/3/2024 2:21:16 PM 127.0.0.1 GET /static/screenshots/dashboard.png
+ HTTP  7/3/2024 2:21:16 PM 127.0.0.1 GET /static/screenshots/logs.png
+ HTTP  7/3/2024 2:21:16 PM 127.0.0.1 Returned 200 in 6 ms
+ HTTP  7/3/2024 2:21:16 PM 127.0.0.1 Returned 200 in 5 ms
+ HTTP  7/3/2024 2:21:16 PM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  7/3/2024 2:21:16 PM 127.0.0.1 Returned 200 in 1 ms
+ HTTP  7/3/2024 2:21:16 PM 127.0.0.1 GET /dist/web/install-button.js
+ HTTP  7/3/2024 2:21:16 PM 127.0.0.1 Returned 200 in 2 ms
+ HTTP  7/3/2024 2:21:16 PM 127.0.0.1 GET /favicon.ico
+ HTTP  7/3/2024 2:21:16 PM 127.0.0.1 Returned 404 in 7 ms
+ HTTP  7/3/2024 2:21:18 PM 127.0.0.1 GET /
+ HTTP  7/3/2024 2:21:18 PM 127.0.0.1 Returned 200 in 3 ms
+ HTTP  7/3/2024 2:21:18 PM 127.0.0.1 GET /dist/web/install-button.js
+ HTTP  7/3/2024 2:21:18 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  7/3/2024 2:21:18 PM 127.0.0.1 GET /static/logos/wled.png
+ HTTP  7/3/2024 2:21:18 PM 127.0.0.1 GET /static/logos/tasmota.svg
+ HTTP  7/3/2024 2:21:18 PM 127.0.0.1 GET /static/logos/espeasy.png
+ HTTP  7/3/2024 2:21:18 PM 127.0.0.1 GET /static/logos/canairio.png
+ HTTP  7/3/2024 2:21:18 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  7/3/2024 2:21:18 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  7/3/2024 2:21:18 PM 127.0.0.1 Returned 304 in 2 ms
+ HTTP  7/3/2024 2:21:18 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  7/3/2024 2:21:18 PM 127.0.0.1 GET /static/logos/esphome.svg
+ HTTP  7/3/2024 2:21:18 PM 127.0.0.1 GET /static/logos/squeezelite-esp32.png
+ HTTP  7/3/2024 2:21:18 PM 127.0.0.1 GET /static/logos/2smart.png
+ HTTP  7/3/2024 2:21:18 PM 127.0.0.1 GET /static/logos/clockwise.png
+ HTTP  7/3/2024 2:21:18 PM 127.0.0.1 GET /static/logos/luciferin_logo.png
+ HTTP  7/3/2024 2:21:18 PM 127.0.0.1 GET /static/logos/openepaperlink.png
+ HTTP  7/3/2024 2:21:18 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  7/3/2024 2:21:18 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  7/3/2024 2:21:18 PM 127.0.0.1 Returned 304 in 2 ms
+ HTTP  7/3/2024 2:21:18 PM 127.0.0.1 Returned 304 in 2 ms
+ HTTP  7/3/2024 2:21:18 PM 127.0.0.1 Returned 304 in 1 ms
+ HTTP  7/3/2024 2:21:18 PM 127.0.0.1 GET /static/screenshots/logs.png
+ HTTP  7/3/2024 2:21:18 PM 127.0.0.1 Returned 304 in 2 ms
+ HTTP  7/3/2024 2:21:18 PM 127.0.0.1 GET /static/screenshots/dashboard.png
+ HTTP  7/3/2024 2:21:18 PM 127.0.0.1 Returned 304 in 0 ms
+ HTTP  7/3/2024 2:21:18 PM 127.0.0.1 Returned 304 in 1 ms
+c2:21:29 PM - File change detected. Starting incremental compilation...
+
+
+2:21:29 PM - Found 0 errors. Watching for file changes.
+c2:24:26 PM - Starting compilation in watch mode...
+
+ UPDATE  The latest version of `serve` is 14.2.3
+ INFO  Accepting connections at http://localhost:55218
+
+2:24:27 PM - Found 0 errors. Watching for file changes.
+ HTTP  7/3/2024 2:25:01 PM ::1 GET /
+ HTTP  7/3/2024 2:25:01 PM ::1 Returned 200 in 40 ms
+ HTTP  7/3/2024 2:25:01 PM ::1 GET /static/logos/wled.png
+ HTTP  7/3/2024 2:25:01 PM ::1 GET /static/logos/tasmota.svg
+ HTTP  7/3/2024 2:25:01 PM ::1 Returned 200 in 2 ms
+ HTTP  7/3/2024 2:25:01 PM ::1 Returned 200 in 3 ms
+ HTTP  7/3/2024 2:25:01 PM ::1 GET /dist/web/install-button.js
+ HTTP  7/3/2024 2:25:01 PM ::1 GET /static/logos/espeasy.png
+ HTTP  7/3/2024 2:25:01 PM ::1 GET /static/logos/canairio.png
+ HTTP  7/3/2024 2:25:01 PM ::1 GET /static/logos/esphome.svg
+ HTTP  7/3/2024 2:25:01 PM ::1 GET /static/logos/squeezelite-esp32.png
+ HTTP  7/3/2024 2:25:01 PM ::1 Returned 200 in 3 ms
+ HTTP  7/3/2024 2:25:01 PM ::1 Returned 200 in 2 ms
+ HTTP  7/3/2024 2:25:01 PM ::1 GET /static/logos/2smart.png
+ HTTP  7/3/2024 2:25:01 PM ::1 Returned 200 in 3 ms
+ HTTP  7/3/2024 2:25:01 PM ::1 Returned 200 in 2 ms
+ HTTP  7/3/2024 2:25:01 PM ::1 GET /static/logos/clockwise.png
+ HTTP  7/3/2024 2:25:01 PM ::1 Returned 200 in 3 ms
+ HTTP  7/3/2024 2:25:01 PM ::1 GET /static/logos/luciferin_logo.png
+ HTTP  7/3/2024 2:25:01 PM ::1 GET /static/logos/openepaperlink.png
+ HTTP  7/3/2024 2:25:01 PM ::1 Returned 200 in 3 ms
+ HTTP  7/3/2024 2:25:01 PM ::1 GET /static/screenshots/dashboard.png
+ HTTP  7/3/2024 2:25:01 PM ::1 GET /static/screenshots/logs.png
+ HTTP  7/3/2024 2:25:01 PM ::1 Returned 200 in 3 ms
+ HTTP  7/3/2024 2:25:01 PM ::1 Returned 200 in 3 ms
+ HTTP  7/3/2024 2:25:01 PM ::1 Returned 200 in 2 ms
+ HTTP  7/3/2024 2:25:01 PM ::1 Returned 200 in 1 ms
+ HTTP  7/3/2024 2:25:01 PM ::1 Returned 200 in 1 ms
+ HTTP  7/3/2024 2:25:01 PM ::1 GET /favicon.ico
+ HTTP  7/3/2024 2:25:01 PM ::1 Returned 404 in 2 ms
+ HTTP  7/3/2024 2:25:06 PM ::1 GET /dist/web/install-dialog-DbCJUXeC.js
+ HTTP  7/3/2024 2:25:06 PM ::1 Returned 200 in 7 ms
+ HTTP  7/3/2024 2:25:06 PM ::1 GET /dist/web/styles-DzcnrAq9.js
+ HTTP  7/3/2024 2:25:06 PM ::1 Returned 200 in 3 ms
+ HTTP  7/3/2024 2:25:22 PM ::1 GET /dist/web/esp32-C8_LBcJX.js
+ HTTP  7/3/2024 2:25:22 PM ::1 Returned 200 in 6 ms
+ HTTP  7/3/2024 2:25:22 PM ::1 GET /dist/web/rom-DGwTkJep.js
+ HTTP  7/3/2024 2:25:22 PM ::1 Returned 200 in 3 ms
+c2:41:31 PM - Starting compilation in watch mode...
+
+ UPDATE  The latest version of `serve` is 14.2.3
+ INFO  Accepting connections at http://localhost:59673
+
+2:41:32 PM - Found 0 errors. Watching for file changes.
+ HTTP  7/3/2024 2:41:50 PM ::1 GET /
+ HTTP  7/3/2024 2:41:50 PM ::1 Returned 200 in 69 ms
+ HTTP  7/3/2024 2:41:50 PM ::1 GET /static/logos/wled.png
+ HTTP  7/3/2024 2:41:50 PM ::1 GET /static/logos/tasmota.svg
+ HTTP  7/3/2024 2:41:50 PM ::1 Returned 200 in 1 ms
+ HTTP  7/3/2024 2:41:50 PM ::1 Returned 200 in 2 ms
+ HTTP  7/3/2024 2:41:50 PM ::1 GET /dist/web/install-button.js
+ HTTP  7/3/2024 2:41:50 PM ::1 GET /static/logos/espeasy.png
+ HTTP  7/3/2024 2:41:50 PM ::1 GET /static/logos/canairio.png
+ HTTP  7/3/2024 2:41:50 PM ::1 GET /static/logos/esphome.svg
+ HTTP  7/3/2024 2:41:50 PM ::1 GET /static/logos/squeezelite-esp32.png
+ HTTP  7/3/2024 2:41:50 PM ::1 Returned 200 in 3 ms
+ HTTP  7/3/2024 2:41:50 PM ::1 GET /static/logos/2smart.png
+ HTTP  7/3/2024 2:41:50 PM ::1 Returned 200 in 3 ms
+ HTTP  7/3/2024 2:41:50 PM ::1 Returned 200 in 2 ms
+ HTTP  7/3/2024 2:41:50 PM ::1 Returned 200 in 4 ms
+ HTTP  7/3/2024 2:41:50 PM ::1 GET /static/logos/clockwise.png
+ HTTP  7/3/2024 2:41:50 PM ::1 Returned 200 in 5 ms
+ HTTP  7/3/2024 2:41:50 PM ::1 GET /static/logos/luciferin_logo.png
+ HTTP  7/3/2024 2:41:50 PM ::1 GET /static/logos/openepaperlink.png
+ HTTP  7/3/2024 2:41:50 PM ::1 Returned 200 in 6 ms
+ HTTP  7/3/2024 2:41:50 PM ::1 GET /static/screenshots/dashboard.png
+ HTTP  7/3/2024 2:41:50 PM ::1 GET /static/screenshots/logs.png
+ HTTP  7/3/2024 2:41:50 PM ::1 Returned 200 in 3 ms
+ HTTP  7/3/2024 2:41:50 PM ::1 Returned 200 in 2 ms
+ HTTP  7/3/2024 2:41:50 PM ::1 Returned 200 in 2 ms
+ HTTP  7/3/2024 2:41:50 PM ::1 Returned 200 in 1 ms
+ HTTP  7/3/2024 2:41:50 PM ::1 Returned 200 in 1 ms
+ HTTP  7/3/2024 2:41:50 PM ::1 GET /favicon.ico
+ HTTP  7/3/2024 2:41:50 PM ::1 Returned 404 in 1 ms
+ HTTP  7/3/2024 2:41:58 PM ::1 GET /dist/web/install-dialog-DyznSSa8.js
+ HTTP  7/3/2024 2:41:58 PM ::1 Returned 200 in 35 ms
+ HTTP  7/3/2024 2:41:58 PM ::1 GET /dist/web/styles-DzcnrAq9.js
+ HTTP  7/3/2024 2:41:58 PM ::1 Returned 200 in 1 ms
+ HTTP  7/3/2024 2:41:59 PM ::1 GET /circular-progress-styles.css.map
+ HTTP  7/3/2024 2:41:59 PM ::1 GET /dialog-styles.css.map
+ HTTP  7/3/2024 2:41:59 PM ::1 GET /divider-styles.css.map
+ HTTP  7/3/2024 2:41:59 PM ::1 Returned 404 in 2 ms
+ HTTP  7/3/2024 2:41:59 PM ::1 Returned 404 in 1 ms
+ HTTP  7/3/2024 2:41:59 PM ::1 Returned 404 in 2 ms
+ HTTP  7/3/2024 2:42:01 PM ::1 GET /item-styles.css.map
+ HTTP  7/3/2024 2:42:01 PM ::1 GET /list-item-styles.css.map
+ HTTP  7/3/2024 2:42:01 PM ::1 GET /standard-styles.css.map
+ HTTP  7/3/2024 2:42:01 PM ::1 GET /list-styles.css.map
+ HTTP  7/3/2024 2:42:01 PM ::1 GET /ripple-styles.css.map
+ HTTP  7/3/2024 2:42:01 PM ::1 GET /shared-styles.css.map
+ HTTP  7/3/2024 2:42:01 PM ::1 Returned 404 in 5 ms
+ HTTP  7/3/2024 2:42:01 PM ::1 Returned 404 in 4 ms
+ HTTP  7/3/2024 2:42:01 PM ::1 Returned 404 in 3 ms
+ HTTP  7/3/2024 2:42:01 PM ::1 Returned 404 in 3 ms
+ HTTP  7/3/2024 2:42:01 PM ::1 GET /focus-ring-styles.css.map
+ HTTP  7/3/2024 2:42:01 PM ::1 Returned 404 in 16 ms
+ HTTP  7/3/2024 2:42:01 PM ::1 Returned 404 in 16 ms
+ HTTP  7/3/2024 2:42:01 PM ::1 Returned 404 in 17 ms
+ HTTP  7/3/2024 2:42:05 PM ::1 GET /text-styles.css.map
+ HTTP  7/3/2024 2:42:05 PM ::1 GET /shared-styles.css.map
+ HTTP  7/3/2024 2:42:05 PM ::1 Returned 404 in 2 ms
+ HTTP  7/3/2024 2:42:05 PM ::1 Returned 404 in 1 ms
+ HTTP  7/3/2024 2:42:08 PM ::1 GET /dist/web/esp32-C8_LBcJX.js
+ HTTP  7/3/2024 2:42:08 PM ::1 Returned 200 in 2 ms
+ HTTP  7/3/2024 2:42:08 PM ::1 GET /dist/web/rom-DGwTkJep.js
+ HTTP  7/3/2024 2:42:08 PM ::1 Returned 200 in 1 ms
+c2:44:16 PM - File change detected. Starting incremental compilation...
+
+
+2:44:16 PM - Found 0 errors. Watching for file changes.
+c2:44:32 PM - Starting compilation in watch mode...
+
+ UPDATE  The latest version of `serve` is 14.2.3
+ INFO  Accepting connections at http://localhost:60457
+
+2:44:32 PM - Found 0 errors. Watching for file changes.
+ HTTP  7/3/2024 2:44:47 PM ::1 GET /
+ HTTP  7/3/2024 2:44:47 PM ::1 Returned 200 in 30 ms
+ HTTP  7/3/2024 2:44:48 PM ::1 GET /static/logos/wled.png
+ HTTP  7/3/2024 2:44:48 PM ::1 GET /static/logos/tasmota.svg
+ HTTP  7/3/2024 2:44:48 PM ::1 GET /dist/web/install-button.js
+ HTTP  7/3/2024 2:44:48 PM ::1 Returned 200 in 7 ms
+ HTTP  7/3/2024 2:44:48 PM ::1 Returned 200 in 6 ms
+ HTTP  7/3/2024 2:44:48 PM ::1 GET /static/logos/espeasy.png
+ HTTP  7/3/2024 2:44:48 PM ::1 GET /static/logos/canairio.png
+ HTTP  7/3/2024 2:44:48 PM ::1 GET /static/logos/esphome.svg
+ HTTP  7/3/2024 2:44:48 PM ::1 Returned 200 in 8 ms
+ HTTP  7/3/2024 2:44:48 PM ::1 GET /static/logos/squeezelite-esp32.png
+ HTTP  7/3/2024 2:44:48 PM ::1 GET /static/logos/2smart.png
+ HTTP  7/3/2024 2:44:48 PM ::1 Returned 200 in 7 ms
+ HTTP  7/3/2024 2:44:48 PM ::1 Returned 200 in 8 ms
+ HTTP  7/3/2024 2:44:48 PM ::1 Returned 200 in 8 ms
+ HTTP  7/3/2024 2:44:48 PM ::1 GET /static/logos/clockwise.png
+ HTTP  7/3/2024 2:44:48 PM ::1 Returned 200 in 6 ms
+ HTTP  7/3/2024 2:44:48 PM ::1 GET /static/logos/luciferin_logo.png
+ HTTP  7/3/2024 2:44:48 PM ::1 Returned 200 in 7 ms
+ HTTP  7/3/2024 2:44:48 PM ::1 GET /static/logos/openepaperlink.png
+ HTTP  7/3/2024 2:44:48 PM ::1 GET /static/screenshots/dashboard.png
+ HTTP  7/3/2024 2:44:48 PM ::1 GET /static/screenshots/logs.png
+ HTTP  7/3/2024 2:44:48 PM ::1 Returned 200 in 5 ms
+ HTTP  7/3/2024 2:44:48 PM ::1 Returned 200 in 4 ms
+ HTTP  7/3/2024 2:44:48 PM ::1 Returned 200 in 3 ms
+ HTTP  7/3/2024 2:44:48 PM ::1 Returned 200 in 2 ms
+ HTTP  7/3/2024 2:44:48 PM ::1 Returned 200 in 2 ms
+ HTTP  7/3/2024 2:44:48 PM ::1 GET /favicon.ico
+ HTTP  7/3/2024 2:44:48 PM ::1 Returned 404 in 1 ms
+ HTTP  7/3/2024 2:44:51 PM ::1 GET /
+ HTTP  7/3/2024 2:44:51 PM ::1 Returned 304 in 3 ms
+ HTTP  7/3/2024 2:44:51 PM ::1 GET /static/logos/wled.png
+ HTTP  7/3/2024 2:44:51 PM ::1 GET /static/logos/tasmota.svg
+ HTTP  7/3/2024 2:44:51 PM ::1 GET /dist/web/install-button.js
+ HTTP  7/3/2024 2:44:51 PM ::1 GET /static/logos/espeasy.png
+ HTTP  7/3/2024 2:44:51 PM ::1 GET /static/logos/canairio.png
+ HTTP  7/3/2024 2:44:51 PM ::1 GET /static/logos/esphome.svg
+ HTTP  7/3/2024 2:44:51 PM ::1 Returned 304 in 3 ms
+ HTTP  7/3/2024 2:44:51 PM ::1 Returned 304 in 2 ms
+ HTTP  7/3/2024 2:44:51 PM ::1 Returned 304 in 3 ms
+ HTTP  7/3/2024 2:44:51 PM ::1 Returned 304 in 3 ms
+ HTTP  7/3/2024 2:44:51 PM ::1 Returned 304 in 3 ms
+ HTTP  7/3/2024 2:44:51 PM ::1 Returned 304 in 3 ms
+ HTTP  7/3/2024 2:44:51 PM ::1 GET /static/logos/squeezelite-esp32.png
+ HTTP  7/3/2024 2:44:51 PM ::1 GET /static/logos/2smart.png
+ HTTP  7/3/2024 2:44:51 PM ::1 Returned 304 in 1 ms
+ HTTP  7/3/2024 2:44:51 PM ::1 GET /static/logos/clockwise.png
+ HTTP  7/3/2024 2:44:51 PM ::1 GET /static/logos/luciferin_logo.png
+ HTTP  7/3/2024 2:44:51 PM ::1 Returned 304 in 7 ms
+ HTTP  7/3/2024 2:44:51 PM ::1 Returned 304 in 3 ms
+ HTTP  7/3/2024 2:44:51 PM ::1 Returned 304 in 2 ms
+ HTTP  7/3/2024 2:44:51 PM ::1 GET /static/screenshots/dashboard.png
+ HTTP  7/3/2024 2:44:51 PM ::1 GET /static/logos/openepaperlink.png
+ HTTP  7/3/2024 2:44:51 PM ::1 GET /static/screenshots/logs.png
+ HTTP  7/3/2024 2:44:51 PM ::1 Returned 304 in 2 ms
+ HTTP  7/3/2024 2:44:51 PM ::1 Returned 304 in 1 ms
+ HTTP  7/3/2024 2:44:51 PM ::1 Returned 304 in 2 ms
+ HTTP  7/3/2024 2:44:53 PM ::1 GET /dist/web/install-dialog-CtjFRdR8.js
+ HTTP  7/3/2024 2:44:53 PM ::1 Returned 200 in 5 ms
+ HTTP  7/3/2024 2:44:53 PM ::1 GET /dist/web/styles-DzcnrAq9.js
+ HTTP  7/3/2024 2:44:53 PM ::1 Returned 200 in 2 ms
+ HTTP  7/3/2024 2:44:55 PM ::1 GET /circular-progress-styles.css.map
+ HTTP  7/3/2024 2:44:55 PM ::1 GET /dialog-styles.css.map
+ HTTP  7/3/2024 2:44:55 PM ::1 GET /divider-styles.css.map
+ HTTP  7/3/2024 2:44:55 PM ::1 Returned 404 in 12 ms
+ HTTP  7/3/2024 2:44:55 PM ::1 Returned 404 in 4 ms
+ HTTP  7/3/2024 2:44:55 PM ::1 Returned 404 in 3 ms
+ HTTP  7/3/2024 2:44:58 PM ::1 GET /dist/web/esp32-C8_LBcJX.js
+ HTTP  7/3/2024 2:44:58 PM ::1 Returned 200 in 3 ms
+ HTTP  7/3/2024 2:44:58 PM ::1 GET /dist/web/rom-DGwTkJep.js
+ HTTP  7/3/2024 2:44:58 PM ::1 Returned 200 in 3 ms
+c2:47:54 PM - File change detected. Starting incremental compilation...
+
+src/install-dialog.ts(125,13): error TS2554: Expected 1-2 arguments, but got 0.
+
+2:47:54 PM - Found 1 error. Watching for file changes.
+c2:49:05 PM - File change detected. Starting incremental compilation...
+
+
+2:49:05 PM - Found 0 errors. Watching for file changes.
+c2:50:01 PM - File change detected. Starting incremental compilation...
+
+
+2:50:01 PM - Found 0 errors. Watching for file changes.
+c2:50:14 PM - Starting compilation in watch mode...
+
+ UPDATE  The latest version of `serve` is 14.2.3
+ INFO  Accepting connections at http://localhost:61914
+
+2:50:15 PM - Found 0 errors. Watching for file changes.
+ HTTP  7/3/2024 2:50:34 PM ::1 GET /
+ HTTP  7/3/2024 2:50:34 PM ::1 Returned 200 in 53 ms
+ HTTP  7/3/2024 2:50:34 PM ::1 GET /static/logos/wled.png
+ HTTP  7/3/2024 2:50:34 PM ::1 GET /static/logos/tasmota.svg
+ HTTP  7/3/2024 2:50:34 PM ::1 Returned 200 in 6 ms
+ HTTP  7/3/2024 2:50:34 PM ::1 Returned 200 in 6 ms
+ HTTP  7/3/2024 2:50:34 PM ::1 GET /dist/web/install-button.js
+ HTTP  7/3/2024 2:50:34 PM ::1 GET /static/logos/espeasy.png
+ HTTP  7/3/2024 2:50:34 PM ::1 GET /static/logos/squeezelite-esp32.png
+ HTTP  7/3/2024 2:50:34 PM ::1 GET /static/logos/canairio.png
+ HTTP  7/3/2024 2:50:34 PM ::1 GET /static/logos/2smart.png
+ HTTP  7/3/2024 2:50:34 PM ::1 GET /static/logos/esphome.svg
+ HTTP  7/3/2024 2:50:34 PM ::1 Returned 200 in 5 ms
+ HTTP  7/3/2024 2:50:34 PM ::1 Returned 200 in 5 ms
+ HTTP  7/3/2024 2:50:34 PM ::1 Returned 200 in 3 ms
+ HTTP  7/3/2024 2:50:34 PM ::1 Returned 200 in 2 ms
+ HTTP  7/3/2024 2:50:34 PM ::1 GET /static/logos/clockwise.png
+ HTTP  7/3/2024 2:50:34 PM ::1 Returned 200 in 5 ms
+ HTTP  7/3/2024 2:50:34 PM ::1 Returned 200 in 6 ms
+ HTTP  7/3/2024 2:50:34 PM ::1 GET /static/logos/luciferin_logo.png
+ HTTP  7/3/2024 2:50:34 PM ::1 GET /static/logos/openepaperlink.png
+ HTTP  7/3/2024 2:50:34 PM ::1 GET /static/screenshots/dashboard.png
+ HTTP  7/3/2024 2:50:34 PM ::1 GET /static/screenshots/logs.png
+ HTTP  7/3/2024 2:50:34 PM ::1 Returned 200 in 7 ms
+ HTTP  7/3/2024 2:50:34 PM ::1 Returned 200 in 3 ms
+ HTTP  7/3/2024 2:50:34 PM ::1 Returned 200 in 3 ms
+ HTTP  7/3/2024 2:50:34 PM ::1 Returned 200 in 3 ms
+ HTTP  7/3/2024 2:50:34 PM ::1 Returned 200 in 2 ms
+ HTTP  7/3/2024 2:50:34 PM ::1 GET /favicon.ico
+ HTTP  7/3/2024 2:50:34 PM ::1 Returned 404 in 1 ms
+ HTTP  7/3/2024 2:50:37 PM ::1 GET /
+ HTTP  7/3/2024 2:50:37 PM ::1 Returned 304 in 3 ms
+ HTTP  7/3/2024 2:50:37 PM ::1 GET /static/logos/wled.png
+ HTTP  7/3/2024 2:50:37 PM ::1 GET /static/logos/tasmota.svg
+ HTTP  7/3/2024 2:50:37 PM ::1 GET /dist/web/install-button.js
+ HTTP  7/3/2024 2:50:37 PM ::1 GET /static/logos/espeasy.png
+ HTTP  7/3/2024 2:50:37 PM ::1 GET /static/logos/canairio.png
+ HTTP  7/3/2024 2:50:37 PM ::1 GET /static/logos/esphome.svg
+ HTTP  7/3/2024 2:50:37 PM ::1 Returned 304 in 15 ms
+ HTTP  7/3/2024 2:50:37 PM ::1 Returned 304 in 4 ms
+ HTTP  7/3/2024 2:50:37 PM ::1 Returned 304 in 4 ms
+ HTTP  7/3/2024 2:50:37 PM ::1 Returned 304 in 3 ms
+ HTTP  7/3/2024 2:50:37 PM ::1 Returned 304 in 7 ms
+ HTTP  7/3/2024 2:50:37 PM ::1 GET /static/logos/luciferin_logo.png
+ HTTP  7/3/2024 2:50:37 PM ::1 GET /static/logos/clockwise.png
+ HTTP  7/3/2024 2:50:37 PM ::1 Returned 304 in 10 ms
+ HTTP  7/3/2024 2:50:37 PM ::1 Returned 304 in 3 ms
+ HTTP  7/3/2024 2:50:37 PM ::1 GET /static/logos/squeezelite-esp32.png
+ HTTP  7/3/2024 2:50:37 PM ::1 GET /static/logos/2smart.png
+ HTTP  7/3/2024 2:50:37 PM ::1 GET /static/screenshots/dashboard.png
+ HTTP  7/3/2024 2:50:37 PM ::1 Returned 304 in 8 ms
+ HTTP  7/3/2024 2:50:37 PM ::1 Returned 304 in 5 ms
+ HTTP  7/3/2024 2:50:37 PM ::1 Returned 304 in 4 ms
+ HTTP  7/3/2024 2:50:37 PM ::1 GET /static/logos/openepaperlink.png
+ HTTP  7/3/2024 2:50:37 PM ::1 GET /static/screenshots/logs.png
+ HTTP  7/3/2024 2:50:37 PM ::1 Returned 304 in 4 ms
+ HTTP  7/3/2024 2:50:37 PM ::1 Returned 304 in 1 ms
+ HTTP  7/3/2024 2:50:37 PM ::1 Returned 304 in 2 ms
+ HTTP  7/3/2024 2:50:39 PM ::1 GET /dist/web/install-dialog-BHirp9n-.js
+ HTTP  7/3/2024 2:50:39 PM ::1 Returned 200 in 5 ms
+ HTTP  7/3/2024 2:50:39 PM ::1 GET /dist/web/styles-DzcnrAq9.js
+ HTTP  7/3/2024 2:50:39 PM ::1 Returned 200 in 5 ms
+ HTTP  7/3/2024 2:50:41 PM ::1 GET /divider-styles.css.map
+ HTTP  7/3/2024 2:50:41 PM ::1 GET /circular-progress-styles.css.map
+ HTTP  7/3/2024 2:50:41 PM ::1 GET /dialog-styles.css.map
+ HTTP  7/3/2024 2:50:41 PM ::1 Returned 404 in 19 ms
+ HTTP  7/3/2024 2:50:41 PM ::1 Returned 404 in 17 ms
+ HTTP  7/3/2024 2:50:41 PM ::1 Returned 404 in 16 ms
+c2:52:50 PM - File change detected. Starting incremental compilation...
+
+
+2:52:50 PM - Found 0 errors. Watching for file changes.
+c2:53:07 PM - Starting compilation in watch mode...
+
+ UPDATE  The latest version of `serve` is 14.2.3
+ INFO  Accepting connections at http://localhost:62654
+
+2:53:07 PM - Found 0 errors. Watching for file changes.
+ HTTP  7/3/2024 2:53:22 PM ::1 GET /
+ HTTP  7/3/2024 2:53:22 PM ::1 Returned 200 in 24 ms
+ HTTP  7/3/2024 2:53:22 PM ::1 GET /static/logos/wled.png
+ HTTP  7/3/2024 2:53:22 PM ::1 GET /static/logos/tasmota.svg
+ HTTP  7/3/2024 2:53:22 PM ::1 Returned 200 in 5 ms
+ HTTP  7/3/2024 2:53:22 PM ::1 Returned 200 in 5 ms
+ HTTP  7/3/2024 2:53:22 PM ::1 GET /dist/web/install-button.js
+ HTTP  7/3/2024 2:53:22 PM ::1 GET /static/logos/espeasy.png
+ HTTP  7/3/2024 2:53:22 PM ::1 GET /static/logos/canairio.png
+ HTTP  7/3/2024 2:53:22 PM ::1 GET /static/logos/esphome.svg
+ HTTP  7/3/2024 2:53:22 PM ::1 Returned 200 in 4 ms
+ HTTP  7/3/2024 2:53:22 PM ::1 GET /static/logos/squeezelite-esp32.png
+ HTTP  7/3/2024 2:53:22 PM ::1 Returned 200 in 4 ms
+ HTTP  7/3/2024 2:53:22 PM ::1 GET /static/logos/2smart.png
+ HTTP  7/3/2024 2:53:22 PM ::1 Returned 200 in 15 ms
+ HTTP  7/3/2024 2:53:22 PM ::1 GET /static/logos/clockwise.png
+ HTTP  7/3/2024 2:53:22 PM ::1 Returned 200 in 17 ms
+ HTTP  7/3/2024 2:53:22 PM ::1 GET /static/logos/luciferin_logo.png
+ HTTP  7/3/2024 2:53:22 PM ::1 Returned 200 in 15 ms
+ HTTP  7/3/2024 2:53:22 PM ::1 GET /static/logos/openepaperlink.png
+ HTTP  7/3/2024 2:53:22 PM ::1 Returned 200 in 16 ms
+ HTTP  7/3/2024 2:53:22 PM ::1 GET /static/screenshots/dashboard.png
+ HTTP  7/3/2024 2:53:22 PM ::1 Returned 200 in 5 ms
+ HTTP  7/3/2024 2:53:22 PM ::1 GET /static/screenshots/logs.png
+ HTTP  7/3/2024 2:53:22 PM ::1 Returned 200 in 4 ms
+ HTTP  7/3/2024 2:53:22 PM ::1 Returned 200 in 4 ms
+ HTTP  7/3/2024 2:53:22 PM ::1 Returned 200 in 2 ms
+ HTTP  7/3/2024 2:53:22 PM ::1 Returned 200 in 1 ms
+ HTTP  7/3/2024 2:53:22 PM ::1 GET /favicon.ico
+ HTTP  7/3/2024 2:53:22 PM ::1 Returned 404 in 2 ms
+ HTTP  7/3/2024 2:53:25 PM ::1 GET /dist/web/install-dialog-VJ4p5h1s.js
+ HTTP  7/3/2024 2:53:25 PM ::1 Returned 200 in 5 ms
+ HTTP  7/3/2024 2:53:25 PM ::1 GET /dist/web/styles-DzcnrAq9.js
+ HTTP  7/3/2024 2:53:25 PM ::1 Returned 200 in 2 ms
+ HTTP  7/3/2024 2:53:27 PM ::1 GET /circular-progress-styles.css.map
+ HTTP  7/3/2024 2:53:27 PM ::1 GET /dialog-styles.css.map
+ HTTP  7/3/2024 2:53:27 PM ::1 GET /divider-styles.css.map
+ HTTP  7/3/2024 2:53:27 PM ::1 Returned 404 in 3 ms
+ HTTP  7/3/2024 2:53:27 PM ::1 Returned 404 in 2 ms
+ HTTP  7/3/2024 2:53:27 PM ::1 Returned 404 in 2 ms
+c2:53:56 PM - File change detected. Starting incremental compilation...
+
+
+2:53:56 PM - Found 0 errors. Watching for file changes.
+c2:54:20 PM - Starting compilation in watch mode...
+
+ UPDATE  The latest version of `serve` is 14.2.3
+ INFO  Accepting connections at http://localhost:62984
+
+2:54:21 PM - Found 0 errors. Watching for file changes.
+ HTTP  7/3/2024 2:54:38 PM ::1 GET /
+ HTTP  7/3/2024 2:54:38 PM ::1 Returned 200 in 43 ms
+ HTTP  7/3/2024 2:54:38 PM ::1 GET /static/logos/wled.png
+ HTTP  7/3/2024 2:54:38 PM ::1 GET /static/logos/tasmota.svg
+ HTTP  7/3/2024 2:54:38 PM ::1 Returned 200 in 2 ms
+ HTTP  7/3/2024 2:54:38 PM ::1 Returned 200 in 4 ms
+ HTTP  7/3/2024 2:54:38 PM ::1 GET /dist/web/install-button.js
+ HTTP  7/3/2024 2:54:38 PM ::1 GET /static/logos/espeasy.png
+ HTTP  7/3/2024 2:54:38 PM ::1 GET /static/logos/canairio.png
+ HTTP  7/3/2024 2:54:38 PM ::1 GET /static/logos/esphome.svg
+ HTTP  7/3/2024 2:54:38 PM ::1 GET /static/logos/squeezelite-esp32.png
+ HTTP  7/3/2024 2:54:38 PM ::1 Returned 200 in 5 ms
+ HTTP  7/3/2024 2:54:38 PM ::1 Returned 200 in 4 ms
+ HTTP  7/3/2024 2:54:38 PM ::1 GET /static/logos/2smart.png
+ HTTP  7/3/2024 2:54:38 PM ::1 Returned 200 in 5 ms
+ HTTP  7/3/2024 2:54:38 PM ::1 Returned 200 in 7 ms
+ HTTP  7/3/2024 2:54:38 PM ::1 GET /static/logos/clockwise.png
+ HTTP  7/3/2024 2:54:38 PM ::1 Returned 200 in 7 ms
+ HTTP  7/3/2024 2:54:38 PM ::1 GET /static/logos/luciferin_logo.png
+ HTTP  7/3/2024 2:54:38 PM ::1 Returned 200 in 7 ms
+ HTTP  7/3/2024 2:54:38 PM ::1 GET /static/logos/openepaperlink.png
+ HTTP  7/3/2024 2:54:38 PM ::1 GET /static/screenshots/dashboard.png
+ HTTP  7/3/2024 2:54:38 PM ::1 GET /static/screenshots/logs.png
+ HTTP  7/3/2024 2:54:38 PM ::1 Returned 200 in 4 ms
+ HTTP  7/3/2024 2:54:38 PM ::1 Returned 200 in 5 ms
+ HTTP  7/3/2024 2:54:38 PM ::1 Returned 200 in 4 ms
+ HTTP  7/3/2024 2:54:38 PM ::1 Returned 200 in 2 ms
+ HTTP  7/3/2024 2:54:38 PM ::1 Returned 200 in 2 ms
+ HTTP  7/3/2024 2:54:38 PM ::1 GET /favicon.ico
+ HTTP  7/3/2024 2:54:38 PM ::1 Returned 404 in 2 ms
+ HTTP  7/3/2024 2:54:42 PM ::1 GET /
+ HTTP  7/3/2024 2:54:42 PM ::1 Returned 304 in 4 ms
+ HTTP  7/3/2024 2:54:42 PM ::1 GET /static/logos/wled.png
+ HTTP  7/3/2024 2:54:42 PM ::1 GET /dist/web/install-button.js
+ HTTP  7/3/2024 2:54:42 PM ::1 Returned 304 in 6 ms
+ HTTP  7/3/2024 2:54:42 PM ::1 Returned 304 in 2 ms
+ HTTP  7/3/2024 2:54:42 PM ::1 GET /static/logos/tasmota.svg
+ HTTP  7/3/2024 2:54:42 PM ::1 Returned 304 in 1 ms
+ HTTP  7/3/2024 2:54:42 PM ::1 GET /static/logos/espeasy.png
+ HTTP  7/3/2024 2:54:42 PM ::1 Returned 304 in 1 ms
+ HTTP  7/3/2024 2:54:42 PM ::1 GET /static/logos/squeezelite-esp32.png
+ HTTP  7/3/2024 2:54:42 PM ::1 GET /static/logos/2smart.png
+ HTTP  7/3/2024 2:54:42 PM ::1 GET /static/logos/canairio.png
+ HTTP  7/3/2024 2:54:42 PM ::1 Returned 304 in 1 ms
+ HTTP  7/3/2024 2:54:42 PM ::1 Returned 304 in 1 ms
+ HTTP  7/3/2024 2:54:42 PM ::1 Returned 304 in 1 ms
+ HTTP  7/3/2024 2:54:42 PM ::1 GET /static/logos/clockwise.png
+ HTTP  7/3/2024 2:54:42 PM ::1 GET /static/logos/esphome.svg
+ HTTP  7/3/2024 2:54:42 PM ::1 Returned 304 in 3 ms
+ HTTP  7/3/2024 2:54:42 PM ::1 GET /static/logos/luciferin_logo.png
+ HTTP  7/3/2024 2:54:42 PM ::1 GET /static/logos/openepaperlink.png
+ HTTP  7/3/2024 2:54:42 PM ::1 GET /static/screenshots/logs.png
+ HTTP  7/3/2024 2:54:42 PM ::1 GET /static/screenshots/dashboard.png
+ HTTP  7/3/2024 2:54:42 PM ::1 Returned 304 in 3 ms
+ HTTP  7/3/2024 2:54:42 PM ::1 Returned 304 in 2 ms
+ HTTP  7/3/2024 2:54:42 PM ::1 Returned 304 in 1 ms
+ HTTP  7/3/2024 2:54:42 PM ::1 Returned 304 in 2 ms
+ HTTP  7/3/2024 2:54:42 PM ::1 Returned 304 in 2 ms
+ HTTP  7/3/2024 2:54:43 PM ::1 GET /dist/web/install-dialog-CI4FJKSI.js
+ HTTP  7/3/2024 2:54:43 PM ::1 Returned 200 in 7 ms
+ HTTP  7/3/2024 2:54:43 PM ::1 GET /dist/web/styles-DzcnrAq9.js
+ HTTP  7/3/2024 2:54:43 PM ::1 Returned 200 in 8 ms
+ HTTP  7/3/2024 2:54:44 PM ::1 GET /circular-progress-styles.css.map
+ HTTP  7/3/2024 2:54:44 PM ::1 GET /divider-styles.css.map
+ HTTP  7/3/2024 2:54:44 PM ::1 GET /dialog-styles.css.map
+ HTTP  7/3/2024 2:54:44 PM ::1 Returned 404 in 3 ms
+ HTTP  7/3/2024 2:54:44 PM ::1 Returned 404 in 2 ms
+ HTTP  7/3/2024 2:54:44 PM ::1 Returned 404 in 2 ms
+c2:55:23 PM - File change detected. Starting incremental compilation...
+
+
+2:55:23 PM - Found 0 errors. Watching for file changes.
+c2:55:32 PM - Starting compilation in watch mode...
+
+ UPDATE  The latest version of `serve` is 14.2.3
+ INFO  Accepting connections at http://localhost:63307
+
+2:55:33 PM - Found 0 errors. Watching for file changes.
+ HTTP  7/3/2024 2:55:46 PM ::1 GET /
+ HTTP  7/3/2024 2:55:46 PM ::1 Returned 200 in 31 ms
+ HTTP  7/3/2024 2:55:46 PM ::1 GET /static/logos/wled.png
+ HTTP  7/3/2024 2:55:46 PM ::1 GET /static/logos/tasmota.svg
+ HTTP  7/3/2024 2:55:46 PM ::1 Returned 200 in 3 ms
+ HTTP  7/3/2024 2:55:46 PM ::1 Returned 200 in 6 ms
+ HTTP  7/3/2024 2:55:46 PM ::1 GET /static/logos/squeezelite-esp32.png
+ HTTP  7/3/2024 2:55:46 PM ::1 GET /dist/web/install-button.js
+ HTTP  7/3/2024 2:55:46 PM ::1 GET /static/logos/2smart.png
+ HTTP  7/3/2024 2:55:46 PM ::1 GET /static/logos/espeasy.png
+ HTTP  7/3/2024 2:55:46 PM ::1 GET /static/logos/canairio.png
+ HTTP  7/3/2024 2:55:46 PM ::1 GET /static/logos/esphome.svg
+ HTTP  7/3/2024 2:55:46 PM ::1 Returned 200 in 5 ms
+ HTTP  7/3/2024 2:55:46 PM ::1 Returned 200 in 7 ms
+ HTTP  7/3/2024 2:55:46 PM ::1 Returned 200 in 7 ms
+ HTTP  7/3/2024 2:55:46 PM ::1 Returned 200 in 6 ms
+ HTTP  7/3/2024 2:55:46 PM ::1 Returned 200 in 7 ms
+ HTTP  7/3/2024 2:55:46 PM ::1 GET /static/logos/clockwise.png
+ HTTP  7/3/2024 2:55:46 PM ::1 Returned 200 in 8 ms
+ HTTP  7/3/2024 2:55:46 PM ::1 GET /static/logos/luciferin_logo.png
+ HTTP  7/3/2024 2:55:46 PM ::1 GET /static/logos/openepaperlink.png
+ HTTP  7/3/2024 2:55:46 PM ::1 GET /static/screenshots/dashboard.png
+ HTTP  7/3/2024 2:55:46 PM ::1 GET /static/screenshots/logs.png
+ HTTP  7/3/2024 2:55:46 PM ::1 Returned 200 in 16 ms
+ HTTP  7/3/2024 2:55:46 PM ::1 Returned 200 in 12 ms
+ HTTP  7/3/2024 2:55:46 PM ::1 Returned 200 in 11 ms
+ HTTP  7/3/2024 2:55:46 PM ::1 Returned 200 in 8 ms
+ HTTP  7/3/2024 2:55:46 PM ::1 Returned 200 in 6 ms
+ HTTP  7/3/2024 2:55:47 PM ::1 GET /favicon.ico
+ HTTP  7/3/2024 2:55:47 PM ::1 Returned 404 in 0 ms
+ HTTP  7/3/2024 2:55:49 PM ::1 GET /
+ HTTP  7/3/2024 2:55:49 PM ::1 Returned 304 in 4 ms
+ HTTP  7/3/2024 2:55:49 PM ::1 GET /static/logos/wled.png
+ HTTP  7/3/2024 2:55:49 PM ::1 GET /static/logos/tasmota.svg
+ HTTP  7/3/2024 2:55:49 PM ::1 Returned 304 in 1 ms
+ HTTP  7/3/2024 2:55:49 PM ::1 Returned 304 in 2 ms
+ HTTP  7/3/2024 2:55:49 PM ::1 GET /dist/web/install-button.js
+ HTTP  7/3/2024 2:55:49 PM ::1 GET /static/logos/espeasy.png
+ HTTP  7/3/2024 2:55:49 PM ::1 GET /static/logos/canairio.png
+ HTTP  7/3/2024 2:55:49 PM ::1 GET /static/logos/esphome.svg
+ HTTP  7/3/2024 2:55:49 PM ::1 GET /static/logos/squeezelite-esp32.png
+ HTTP  7/3/2024 2:55:49 PM ::1 GET /static/logos/2smart.png
+ HTTP  7/3/2024 2:55:49 PM ::1 Returned 304 in 3 ms
+ HTTP  7/3/2024 2:55:49 PM ::1 Returned 304 in 6 ms
+ HTTP  7/3/2024 2:55:49 PM ::1 Returned 304 in 6 ms
+ HTTP  7/3/2024 2:55:49 PM ::1 Returned 304 in 7 ms
+ HTTP  7/3/2024 2:55:49 PM ::1 Returned 304 in 8 ms
+ HTTP  7/3/2024 2:55:49 PM ::1 Returned 304 in 21 ms
+ HTTP  7/3/2024 2:55:49 PM ::1 GET /static/logos/clockwise.png
+ HTTP  7/3/2024 2:55:49 PM ::1 GET /static/logos/luciferin_logo.png
+ HTTP  7/3/2024 2:55:50 PM ::1 GET /static/logos/openepaperlink.png
+ HTTP  7/3/2024 2:55:50 PM ::1 GET /static/screenshots/logs.png
+ HTTP  7/3/2024 2:55:50 PM ::1 GET /static/screenshots/dashboard.png
+ HTTP  7/3/2024 2:55:49 PM ::1 Returned 304 in 27 ms
+ HTTP  7/3/2024 2:55:49 PM ::1 Returned 304 in 24 ms
+ HTTP  7/3/2024 2:55:50 PM ::1 Returned 304 in 20 ms
+ HTTP  7/3/2024 2:55:50 PM ::1 Returned 304 in 18 ms
+ HTTP  7/3/2024 2:55:50 PM ::1 Returned 304 in 2 ms
+ HTTP  7/3/2024 2:55:51 PM ::1 GET /dist/web/install-dialog-DP8IKHLN.js
+ HTTP  7/3/2024 2:55:51 PM ::1 Returned 200 in 4 ms
+ HTTP  7/3/2024 2:55:52 PM ::1 GET /dist/web/styles-DzcnrAq9.js
+ HTTP  7/3/2024 2:55:52 PM ::1 Returned 200 in 2 ms
+ HTTP  7/3/2024 2:55:53 PM ::1 GET /divider-styles.css.map
+ HTTP  7/3/2024 2:55:53 PM ::1 GET /circular-progress-styles.css.map
+ HTTP  7/3/2024 2:55:53 PM ::1 GET /dialog-styles.css.map
+ HTTP  7/3/2024 2:55:53 PM ::1 Returned 404 in 6 ms
+ HTTP  7/3/2024 2:55:53 PM ::1 Returned 404 in 4 ms
+ HTTP  7/3/2024 2:55:53 PM ::1 Returned 404 in 4 ms
+ HTTP  7/3/2024 2:55:55 PM ::1 GET /shared-styles.css.map
+ HTTP  7/3/2024 2:55:55 PM ::1 GET /text-styles.css.map
+ HTTP  7/3/2024 2:55:55 PM ::1 GET /focus-ring-styles.css.map
+ HTTP  7/3/2024 2:55:55 PM ::1 GET /ripple-styles.css.map
+ HTTP  7/3/2024 2:55:55 PM ::1 Returned 404 in 4 ms
+ HTTP  7/3/2024 2:55:55 PM ::1 Returned 404 in 4 ms
+ HTTP  7/3/2024 2:55:55 PM ::1 Returned 404 in 3 ms
+ HTTP  7/3/2024 2:55:55 PM ::1 Returned 404 in 3 ms
+ HTTP  7/3/2024 2:56:02 PM ::1 GET /dist/web/esp32-C8_LBcJX.js
+ HTTP  7/3/2024 2:56:02 PM ::1 Returned 200 in 4 ms
+ HTTP  7/3/2024 2:56:02 PM ::1 GET /dist/web/rom-DGwTkJep.js
+ HTTP  7/3/2024 2:56:02 PM ::1 Returned 200 in 8 ms
+c2:56:34 PM - File change detected. Starting incremental compilation...
+
+
+2:56:34 PM - Found 0 errors. Watching for file changes.
+c2:57:09 PM - Starting compilation in watch mode...
+
+ UPDATE  The latest version of `serve` is 14.2.3
+ INFO  Accepting connections at http://localhost:63737
+
+2:57:10 PM - Found 0 errors. Watching for file changes.
+ HTTP  7/3/2024 2:57:24 PM ::1 GET /
+ HTTP  7/3/2024 2:57:24 PM ::1 Returned 200 in 40 ms
+ HTTP  7/3/2024 2:57:24 PM ::1 GET /static/logos/wled.png
+ HTTP  7/3/2024 2:57:24 PM ::1 GET /static/logos/tasmota.svg
+ HTTP  7/3/2024 2:57:24 PM ::1 GET /dist/web/install-button.js
+ HTTP  7/3/2024 2:57:24 PM ::1 GET /static/logos/espeasy.png
+ HTTP  7/3/2024 2:57:24 PM ::1 GET /static/logos/canairio.png
+ HTTP  7/3/2024 2:57:24 PM ::1 Returned 200 in 6 ms
+ HTTP  7/3/2024 2:57:24 PM ::1 GET /static/logos/esphome.svg
+ HTTP  7/3/2024 2:57:24 PM ::1 Returned 200 in 5 ms
+ HTTP  7/3/2024 2:57:24 PM ::1 Returned 200 in 4 ms
+ HTTP  7/3/2024 2:57:24 PM ::1 Returned 200 in 3 ms
+ HTTP  7/3/2024 2:57:24 PM ::1 GET /static/logos/squeezelite-esp32.png
+ HTTP  7/3/2024 2:57:24 PM ::1 GET /static/logos/2smart.png
+ HTTP  7/3/2024 2:57:24 PM ::1 Returned 200 in 5 ms
+ HTTP  7/3/2024 2:57:24 PM ::1 GET /static/logos/clockwise.png
+ HTTP  7/3/2024 2:57:24 PM ::1 Returned 200 in 6 ms
+ HTTP  7/3/2024 2:57:24 PM ::1 GET /static/logos/luciferin_logo.png
+ HTTP  7/3/2024 2:57:24 PM ::1 Returned 200 in 3 ms
+ HTTP  7/3/2024 2:57:24 PM ::1 Returned 200 in 5 ms
+ HTTP  7/3/2024 2:57:24 PM ::1 Returned 200 in 3 ms
+ HTTP  7/3/2024 2:57:24 PM ::1 Returned 200 in 3 ms
+ HTTP  7/3/2024 2:57:24 PM ::1 GET /static/logos/openepaperlink.png
+ HTTP  7/3/2024 2:57:24 PM ::1 GET /static/screenshots/dashboard.png
+ HTTP  7/3/2024 2:57:24 PM ::1 GET /static/screenshots/logs.png
+ HTTP  7/3/2024 2:57:24 PM ::1 Returned 200 in 2 ms
+ HTTP  7/3/2024 2:57:24 PM ::1 Returned 200 in 1 ms
+ HTTP  7/3/2024 2:57:24 PM ::1 Returned 200 in 1 ms
+ HTTP  7/3/2024 2:57:24 PM ::1 GET /favicon.ico
+ HTTP  7/3/2024 2:57:24 PM ::1 Returned 404 in 1 ms
+ HTTP  7/3/2024 2:57:27 PM ::1 GET /dist/web/install-dialog-PAfAjdQa.js
+ HTTP  7/3/2024 2:57:27 PM ::1 Returned 200 in 8 ms
+ HTTP  7/3/2024 2:57:27 PM ::1 GET /dist/web/styles-DzcnrAq9.js
+ HTTP  7/3/2024 2:57:27 PM ::1 Returned 200 in 23 ms
+ HTTP  7/3/2024 2:57:29 PM ::1 GET /divider-styles.css.map
+ HTTP  7/3/2024 2:57:29 PM ::1 GET /circular-progress-styles.css.map
+ HTTP  7/3/2024 2:57:29 PM ::1 GET /dialog-styles.css.map
+ HTTP  7/3/2024 2:57:29 PM ::1 Returned 404 in 5 ms
+ HTTP  7/3/2024 2:57:29 PM ::1 Returned 404 in 2 ms
+ HTTP  7/3/2024 2:57:29 PM ::1 Returned 404 in 3 ms
+ HTTP  7/3/2024 2:57:31 PM ::1 GET /shared-styles.css.map
+ HTTP  7/3/2024 2:57:31 PM ::1 GET /ripple-styles.css.map
+ HTTP  7/3/2024 2:57:31 PM ::1 GET /focus-ring-styles.css.map
+ HTTP  7/3/2024 2:57:31 PM ::1 GET /text-styles.css.map
+ HTTP  7/3/2024 2:57:31 PM ::1 Returned 404 in 3 ms
+ HTTP  7/3/2024 2:57:31 PM ::1 Returned 404 in 2 ms
+ HTTP  7/3/2024 2:57:31 PM ::1 Returned 404 in 2 ms
+ HTTP  7/3/2024 2:57:31 PM ::1 Returned 404 in 3 ms
+ HTTP  7/3/2024 2:57:36 PM ::1 GET /dist/web/esp32-C8_LBcJX.js
+ HTTP  7/3/2024 2:57:36 PM ::1 Returned 200 in 7 ms
+ HTTP  7/3/2024 2:57:36 PM ::1 GET /dist/web/rom-DGwTkJep.js
+ HTTP  7/3/2024 2:57:36 PM ::1 Returned 200 in 2 ms
+ HTTP  7/3/2024 2:59:56 PM ::1 GET /shared-styles.css.map
+ HTTP  7/3/2024 2:59:56 PM ::1 GET /elevation-styles.css.map
+ HTTP  7/3/2024 2:59:56 PM ::1 GET /filled-styles.css.map
+ HTTP  7/3/2024 2:59:56 PM ::1 GET /standard-styles.css.map
+ HTTP  7/3/2024 2:59:56 PM ::1 GET /filled-select-styles.css.map
+ HTTP  7/3/2024 2:59:56 PM ::1 GET /item-styles.css.map
+ HTTP  7/3/2024 2:59:56 PM ::1 Returned 404 in 21 ms
+ HTTP  7/3/2024 2:59:56 PM ::1 Returned 404 in 38 ms
+ HTTP  7/3/2024 2:59:56 PM ::1 Returned 404 in 16 ms
+ HTTP  7/3/2024 2:59:56 PM ::1 Returned 404 in 15 ms
+ HTTP  7/3/2024 2:59:56 PM ::1 Returned 404 in 14 ms
+ HTTP  7/3/2024 2:59:56 PM ::1 GET /menu-styles.css.map
+ HTTP  7/3/2024 2:59:56 PM ::1 GET /menu-item-styles.css.map
+ HTTP  7/3/2024 2:59:56 PM ::1 Returned 404 in 14 ms
+ HTTP  7/3/2024 2:59:56 PM ::1 GET /shared-styles.css.map
+ HTTP  7/3/2024 2:59:56 PM ::1 GET /filled-styles.css.map
+ HTTP  7/3/2024 2:59:56 PM ::1 Returned 404 in 4 ms
+ HTTP  7/3/2024 2:59:56 PM ::1 Returned 404 in 3 ms
+ HTTP  7/3/2024 2:59:56 PM ::1 Returned 404 in 3 ms
+ HTTP  7/3/2024 2:59:56 PM ::1 Returned 404 in 4 ms
+ HTTP  7/3/2024 2:59:56 PM ::1 GET /shared-styles.css.map
+ HTTP  7/3/2024 2:59:56 PM ::1 GET /shared-styles.css.map
+ HTTP  7/3/2024 2:59:56 PM ::1 Returned 404 in 1 ms
+ HTTP  7/3/2024 2:59:56 PM ::1 Returned 404 in 0 ms
+ HTTP  7/3/2024 2:59:56 PM ::1 GET /shared-styles.css.map
+ HTTP  7/3/2024 2:59:56 PM ::1 Returned 404 in 1 ms
+ HTTP  7/3/2024 3:01:49 PM ::1 GET /
+ HTTP  7/3/2024 3:01:49 PM ::1 Returned 304 in 30 ms
+ HTTP  7/3/2024 3:01:49 PM ::1 GET /static/logos/wled.png
+ HTTP  7/3/2024 3:01:49 PM ::1 Returned 304 in 1 ms
+ HTTP  7/3/2024 3:01:49 PM ::1 GET /static/logos/espeasy.png
+ HTTP  7/3/2024 3:01:49 PM ::1 GET /dist/web/install-button.js
+ HTTP  7/3/2024 3:01:49 PM ::1 Returned 304 in 1 ms
+ HTTP  7/3/2024 3:01:49 PM ::1 Returned 304 in 1 ms
+ HTTP  7/3/2024 3:01:49 PM ::1 GET /static/logos/tasmota.svg
+ HTTP  7/3/2024 3:01:49 PM ::1 Returned 304 in 2 ms
+ HTTP  7/3/2024 3:01:49 PM ::1 GET /static/logos/2smart.png
+ HTTP  7/3/2024 3:01:49 PM ::1 GET /static/logos/canairio.png
+ HTTP  7/3/2024 3:01:49 PM ::1 Returned 304 in 1 ms
+ HTTP  7/3/2024 3:01:49 PM ::1 Returned 304 in 1 ms
+ HTTP  7/3/2024 3:01:49 PM ::1 GET /static/logos/clockwise.png
+ HTTP  7/3/2024 3:01:49 PM ::1 GET /static/logos/esphome.svg
+ HTTP  7/3/2024 3:01:49 PM ::1 Returned 304 in 1 ms
+ HTTP  7/3/2024 3:01:49 PM ::1 GET /static/logos/luciferin_logo.png
+ HTTP  7/3/2024 3:01:49 PM ::1 GET /static/logos/squeezelite-esp32.png
+ HTTP  7/3/2024 3:01:49 PM ::1 Returned 304 in 2 ms
+ HTTP  7/3/2024 3:01:49 PM ::1 Returned 304 in 1 ms
+ HTTP  7/3/2024 3:01:49 PM ::1 GET /static/logos/openepaperlink.png
+ HTTP  7/3/2024 3:01:49 PM ::1 GET /static/screenshots/dashboard.png
+ HTTP  7/3/2024 3:01:49 PM ::1 Returned 304 in 3 ms
+ HTTP  7/3/2024 3:01:49 PM ::1 Returned 304 in 1 ms
+ HTTP  7/3/2024 3:01:49 PM ::1 GET /static/screenshots/logs.png
+ HTTP  7/3/2024 3:01:49 PM ::1 Returned 304 in 2 ms
+ HTTP  7/3/2024 3:01:49 PM ::1 Returned 304 in 8 ms
+ HTTP  7/3/2024 3:01:56 PM ::1 GET /dist/web/install-dialog-PAfAjdQa.js
+ HTTP  7/3/2024 3:01:56 PM ::1 Returned 304 in 4 ms
+ HTTP  7/3/2024 3:01:56 PM ::1 GET /dist/web/styles-DzcnrAq9.js
+ HTTP  7/3/2024 3:01:56 PM ::1 Returned 304 in 3 ms
+ HTTP  7/3/2024 3:01:59 PM ::1 GET /circular-progress-styles.css.map
+ HTTP  7/3/2024 3:01:59 PM ::1 GET /dialog-styles.css.map
+ HTTP  7/3/2024 3:01:59 PM ::1 GET /divider-styles.css.map
+ HTTP  7/3/2024 3:01:59 PM ::1 Returned 404 in 16 ms
+ HTTP  7/3/2024 3:01:59 PM ::1 Returned 404 in 11 ms
+ HTTP  7/3/2024 3:01:59 PM ::1 Returned 404 in 7 ms
+ HTTP  7/3/2024 3:02:00 PM ::1 GET /ripple-styles.css.map
+ HTTP  7/3/2024 3:02:00 PM ::1 GET /shared-styles.css.map
+ HTTP  7/3/2024 3:02:00 PM ::1 GET /text-styles.css.map
+ HTTP  7/3/2024 3:02:00 PM ::1 GET /focus-ring-styles.css.map
+ HTTP  7/3/2024 3:02:00 PM ::1 Returned 404 in 5 ms
+ HTTP  7/3/2024 3:02:00 PM ::1 Returned 404 in 5 ms
+ HTTP  7/3/2024 3:02:00 PM ::1 Returned 404 in 3 ms
+ HTTP  7/3/2024 3:02:00 PM ::1 Returned 404 in 4 ms
+c3:10:32 PM - Starting compilation in watch mode...
+
+ UPDATE  The latest version of `serve` is 14.2.3
+ INFO  Accepting connections at http://localhost:50822
+
+3:10:33 PM - Found 0 errors. Watching for file changes.
+ HTTP  7/3/2024 3:10:55 PM ::1 GET /
+ HTTP  7/3/2024 3:10:55 PM ::1 Returned 200 in 66 ms
+ HTTP  7/3/2024 3:10:56 PM ::1 GET /static/logos/wled.png
+ HTTP  7/3/2024 3:10:56 PM ::1 GET /static/logos/tasmota.svg
+ HTTP  7/3/2024 3:10:56 PM ::1 Returned 200 in 2 ms
+ HTTP  7/3/2024 3:10:56 PM ::1 Returned 200 in 2 ms
+ HTTP  7/3/2024 3:10:56 PM ::1 GET /dist/web/install-button.js
+ HTTP  7/3/2024 3:10:56 PM ::1 GET /static/logos/espeasy.png
+ HTTP  7/3/2024 3:10:56 PM ::1 Returned 200 in 2 ms
+ HTTP  7/3/2024 3:10:56 PM ::1 GET /static/logos/canairio.png
+ HTTP  7/3/2024 3:10:56 PM ::1 GET /static/logos/esphome.svg
+ HTTP  7/3/2024 3:10:56 PM ::1 GET /static/logos/squeezelite-esp32.png
+ HTTP  7/3/2024 3:10:56 PM ::1 GET /static/logos/2smart.png
+ HTTP  7/3/2024 3:10:56 PM ::1 Returned 200 in 4 ms
+ HTTP  7/3/2024 3:10:56 PM ::1 Returned 200 in 4 ms
+ HTTP  7/3/2024 3:10:56 PM ::1 Returned 200 in 4 ms
+ HTTP  7/3/2024 3:10:56 PM ::1 GET /static/logos/clockwise.png
+ HTTP  7/3/2024 3:10:56 PM ::1 Returned 200 in 3 ms
+ HTTP  7/3/2024 3:10:56 PM ::1 GET /static/logos/luciferin_logo.png
+ HTTP  7/3/2024 3:10:56 PM ::1 Returned 200 in 4 ms
+ HTTP  7/3/2024 3:10:56 PM ::1 GET /static/logos/openepaperlink.png
+ HTTP  7/3/2024 3:10:56 PM ::1 GET /static/screenshots/dashboard.png
+ HTTP  7/3/2024 3:10:56 PM ::1 GET /static/screenshots/logs.png
+ HTTP  7/3/2024 3:10:56 PM ::1 Returned 200 in 4 ms
+ HTTP  7/3/2024 3:10:56 PM ::1 Returned 200 in 3 ms
+ HTTP  7/3/2024 3:10:56 PM ::1 Returned 200 in 2 ms
+ HTTP  7/3/2024 3:10:56 PM ::1 Returned 200 in 1 ms
+ HTTP  7/3/2024 3:10:56 PM ::1 Returned 200 in 1 ms
+ HTTP  7/3/2024 3:10:56 PM ::1 GET /favicon.ico
+ HTTP  7/3/2024 3:10:56 PM ::1 Returned 404 in 1 ms
+ HTTP  7/3/2024 3:10:58 PM ::1 GET /dist/web/install-dialog-B8SoKIqo.js
+ HTTP  7/3/2024 3:10:58 PM ::1 Returned 200 in 8 ms
+ HTTP  7/3/2024 3:10:58 PM ::1 GET /dist/web/styles-DzcnrAq9.js
+ HTTP  7/3/2024 3:10:58 PM ::1 Returned 200 in 1 ms
+c3:11:26 PM - File change detected. Starting incremental compilation...
+
+
+3:11:26 PM - Found 0 errors. Watching for file changes.
+c3:11:33 PM - Starting compilation in watch mode...
+
+ UPDATE  The latest version of `serve` is 14.2.3
+ INFO  Accepting connections at http://localhost:51092
+
+3:11:34 PM - Found 0 errors. Watching for file changes.
+ HTTP  7/3/2024 3:11:47 PM ::1 GET /
+ HTTP  7/3/2024 3:11:47 PM ::1 Returned 200 in 38 ms
+ HTTP  7/3/2024 3:11:47 PM ::1 GET /static/logos/wled.png
+ HTTP  7/3/2024 3:11:47 PM ::1 GET /static/logos/tasmota.svg
+ HTTP  7/3/2024 3:11:47 PM ::1 GET /dist/web/install-button.js
+ HTTP  7/3/2024 3:11:47 PM ::1 GET /static/logos/espeasy.png
+ HTTP  7/3/2024 3:11:47 PM ::1 GET /static/logos/canairio.png
+ HTTP  7/3/2024 3:11:47 PM ::1 Returned 200 in 5 ms
+ HTTP  7/3/2024 3:11:47 PM ::1 Returned 200 in 6 ms
+ HTTP  7/3/2024 3:11:47 PM ::1 GET /static/logos/esphome.svg
+ HTTP  7/3/2024 3:11:47 PM ::1 Returned 200 in 6 ms
+ HTTP  7/3/2024 3:11:47 PM ::1 Returned 200 in 6 ms
+ HTTP  7/3/2024 3:11:47 PM ::1 GET /static/logos/squeezelite-esp32.png
+ HTTP  7/3/2024 3:11:47 PM ::1 GET /static/logos/2smart.png
+ HTTP  7/3/2024 3:11:47 PM ::1 Returned 200 in 6 ms
+ HTTP  7/3/2024 3:11:47 PM ::1 Returned 200 in 5 ms
+ HTTP  7/3/2024 3:11:47 PM ::1 GET /static/logos/clockwise.png
+ HTTP  7/3/2024 3:11:47 PM ::1 GET /static/logos/luciferin_logo.png
+ HTTP  7/3/2024 3:11:47 PM ::1 GET /static/logos/openepaperlink.png
+ HTTP  7/3/2024 3:11:47 PM ::1 Returned 200 in 7 ms
+ HTTP  7/3/2024 3:11:47 PM ::1 Returned 200 in 8 ms
+ HTTP  7/3/2024 3:11:47 PM ::1 GET /static/screenshots/dashboard.png
+ HTTP  7/3/2024 3:11:47 PM ::1 Returned 200 in 7 ms
+ HTTP  7/3/2024 3:11:47 PM ::1 Returned 200 in 8 ms
+ HTTP  7/3/2024 3:11:47 PM ::1 GET /static/screenshots/logs.png
+ HTTP  7/3/2024 3:11:47 PM ::1 Returned 200 in 7 ms
+ HTTP  7/3/2024 3:11:47 PM ::1 Returned 200 in 2 ms
+ HTTP  7/3/2024 3:11:47 PM ::1 Returned 200 in 1 ms
+ HTTP  7/3/2024 3:11:47 PM ::1 GET /favicon.ico
+ HTTP  7/3/2024 3:11:47 PM ::1 Returned 404 in 1 ms
+ HTTP  7/3/2024 3:11:49 PM ::1 GET /
+ HTTP  7/3/2024 3:11:49 PM ::1 Returned 304 in 2 ms
+ HTTP  7/3/2024 3:11:49 PM ::1 GET /static/logos/wled.png
+ HTTP  7/3/2024 3:11:49 PM ::1 GET /dist/web/install-button.js
+ HTTP  7/3/2024 3:11:49 PM ::1 Returned 304 in 1 ms
+ HTTP  7/3/2024 3:11:49 PM ::1 GET /static/logos/tasmota.svg
+ HTTP  7/3/2024 3:11:49 PM ::1 GET /static/logos/espeasy.png
+ HTTP  7/3/2024 3:11:49 PM ::1 Returned 304 in 2 ms
+ HTTP  7/3/2024 3:11:49 PM ::1 Returned 304 in 2 ms
+ HTTP  7/3/2024 3:11:49 PM ::1 GET /static/logos/canairio.png
+ HTTP  7/3/2024 3:11:49 PM ::1 GET /static/logos/esphome.svg
+ HTTP  7/3/2024 3:11:49 PM ::1 Returned 304 in 2 ms
+ HTTP  7/3/2024 3:11:49 PM ::1 Returned 304 in 1 ms
+ HTTP  7/3/2024 3:11:49 PM ::1 Returned 304 in 2 ms
+ HTTP  7/3/2024 3:11:49 PM ::1 GET /static/logos/squeezelite-esp32.png
+ HTTP  7/3/2024 3:11:49 PM ::1 GET /static/logos/2smart.png
+ HTTP  7/3/2024 3:11:49 PM ::1 GET /static/logos/clockwise.png
+ HTTP  7/3/2024 3:11:49 PM ::1 GET /static/logos/luciferin_logo.png
+ HTTP  7/3/2024 3:11:49 PM ::1 GET /static/logos/openepaperlink.png
+ HTTP  7/3/2024 3:11:49 PM ::1 GET /static/screenshots/dashboard.png
+ HTTP  7/3/2024 3:11:49 PM ::1 Returned 304 in 3 ms
+ HTTP  7/3/2024 3:11:49 PM ::1 Returned 304 in 3 ms
+ HTTP  7/3/2024 3:11:49 PM ::1 Returned 304 in 4 ms
+ HTTP  7/3/2024 3:11:49 PM ::1 Returned 304 in 5 ms
+ HTTP  7/3/2024 3:11:49 PM ::1 Returned 304 in 7 ms
+ HTTP  7/3/2024 3:11:49 PM ::1 Returned 304 in 12 ms
+ HTTP  7/3/2024 3:11:49 PM ::1 GET /static/screenshots/logs.png
+ HTTP  7/3/2024 3:11:49 PM ::1 Returned 304 in 1 ms
+ HTTP  7/3/2024 3:11:51 PM ::1 GET /dist/web/install-dialog-StcqmJkg.js
+ HTTP  7/3/2024 3:11:51 PM ::1 Returned 200 in 19 ms
+ HTTP  7/3/2024 3:11:51 PM ::1 GET /dist/web/styles-DzcnrAq9.js
+ HTTP  7/3/2024 3:11:51 PM ::1 Returned 200 in 2 ms
+ HTTP  7/3/2024 3:11:53 PM ::1 GET /dialog-styles.css.map
+ HTTP  7/3/2024 3:11:53 PM ::1 GET /circular-progress-styles.css.map
+ HTTP  7/3/2024 3:11:53 PM ::1 GET /divider-styles.css.map
+ HTTP  7/3/2024 3:11:53 PM ::1 Returned 404 in 3 ms
+ HTTP  7/3/2024 3:11:53 PM ::1 Returned 404 in 2 ms
+ HTTP  7/3/2024 3:11:53 PM ::1 Returned 404 in 2 ms
+c3:12:45 PM - File change detected. Starting incremental compilation...
+
+
+3:12:46 PM - Found 0 errors. Watching for file changes.
+c3:12:52 PM - Starting compilation in watch mode...
+
+ UPDATE  The latest version of `serve` is 14.2.3
+ INFO  Accepting connections at http://localhost:51441
+
+3:12:52 PM - Found 0 errors. Watching for file changes.
+ HTTP  7/3/2024 3:13:07 PM ::1 GET /
+ HTTP  7/3/2024 3:13:07 PM ::1 Returned 200 in 21 ms
+ HTTP  7/3/2024 3:13:07 PM ::1 GET /static/logos/wled.png
+ HTTP  7/3/2024 3:13:07 PM ::1 GET /static/logos/tasmota.svg
+ HTTP  7/3/2024 3:13:07 PM ::1 GET /dist/web/install-button.js
+ HTTP  7/3/2024 3:13:07 PM ::1 Returned 200 in 5 ms
+ HTTP  7/3/2024 3:13:07 PM ::1 Returned 200 in 5 ms
+ HTTP  7/3/2024 3:13:07 PM ::1 Returned 200 in 5 ms
+ HTTP  7/3/2024 3:13:07 PM ::1 GET /static/logos/espeasy.png
+ HTTP  7/3/2024 3:13:07 PM ::1 GET /static/logos/canairio.png
+ HTTP  7/3/2024 3:13:07 PM ::1 GET /static/logos/esphome.svg
+ HTTP  7/3/2024 3:13:07 PM ::1 GET /static/logos/squeezelite-esp32.png
+ HTTP  7/3/2024 3:13:07 PM ::1 GET /static/logos/2smart.png
+ HTTP  7/3/2024 3:13:07 PM ::1 GET /static/logos/clockwise.png
+ HTTP  7/3/2024 3:13:07 PM ::1 Returned 200 in 7 ms
+ HTTP  7/3/2024 3:13:07 PM ::1 Returned 200 in 7 ms
+ HTTP  7/3/2024 3:13:07 PM ::1 Returned 200 in 7 ms
+ HTTP  7/3/2024 3:13:07 PM ::1 Returned 200 in 6 ms
+ HTTP  7/3/2024 3:13:07 PM ::1 GET /static/logos/luciferin_logo.png
+ HTTP  7/3/2024 3:13:07 PM ::1 Returned 200 in 8 ms
+ HTTP  7/3/2024 3:13:07 PM ::1 GET /static/logos/openepaperlink.png
+ HTTP  7/3/2024 3:13:07 PM ::1 GET /static/screenshots/dashboard.png
+ HTTP  7/3/2024 3:13:07 PM ::1 Returned 200 in 10 ms
+ HTTP  7/3/2024 3:13:07 PM ::1 GET /static/screenshots/logs.png
+ HTTP  7/3/2024 3:13:07 PM ::1 Returned 200 in 8 ms
+ HTTP  7/3/2024 3:13:07 PM ::1 Returned 200 in 6 ms
+ HTTP  7/3/2024 3:13:07 PM ::1 Returned 200 in 6 ms
+ HTTP  7/3/2024 3:13:07 PM ::1 Returned 200 in 3 ms
+ HTTP  7/3/2024 3:13:07 PM ::1 GET /favicon.ico
+ HTTP  7/3/2024 3:13:07 PM ::1 Returned 404 in 1 ms
+ HTTP  7/3/2024 3:13:10 PM ::1 GET /dist/web/install-dialog-BK24fBgo.js
+ HTTP  7/3/2024 3:13:10 PM ::1 Returned 200 in 7 ms
+ HTTP  7/3/2024 3:13:10 PM ::1 GET /dist/web/styles-DzcnrAq9.js
+ HTTP  7/3/2024 3:13:10 PM ::1 Returned 200 in 2 ms
+ HTTP  7/3/2024 3:13:12 PM ::1 GET /divider-styles.css.map
+ HTTP  7/3/2024 3:13:12 PM ::1 GET /dialog-styles.css.map
+ HTTP  7/3/2024 3:13:12 PM ::1 GET /circular-progress-styles.css.map
+ HTTP  7/3/2024 3:13:12 PM ::1 Returned 404 in 4 ms
+ HTTP  7/3/2024 3:13:12 PM ::1 Returned 404 in 2 ms
+ HTTP  7/3/2024 3:13:12 PM ::1 Returned 404 in 3 ms
+ HTTP  7/3/2024 3:13:14 PM ::1 GET /ripple-styles.css.map
+ HTTP  7/3/2024 3:13:14 PM ::1 GET /focus-ring-styles.css.map
+ HTTP  7/3/2024 3:13:14 PM ::1 GET /shared-styles.css.map
+ HTTP  7/3/2024 3:13:14 PM ::1 GET /text-styles.css.map
+ HTTP  7/3/2024 3:13:14 PM ::1 Returned 404 in 4 ms
+ HTTP  7/3/2024 3:13:14 PM ::1 Returned 404 in 3 ms
+ HTTP  7/3/2024 3:13:14 PM ::1 Returned 404 in 4 ms
+ HTTP  7/3/2024 3:13:14 PM ::1 Returned 404 in 3 ms
+ HTTP  7/3/2024 3:13:19 PM ::1 GET /dist/web/esp32-C8_LBcJX.js
+ HTTP  7/3/2024 3:13:19 PM ::1 Returned 200 in 5 ms
+ HTTP  7/3/2024 3:13:19 PM ::1 GET /dist/web/rom-DGwTkJep.js
+ HTTP  7/3/2024 3:13:19 PM ::1 Returned 200 in 24 ms
+c3:13:46 PM - File change detected. Starting incremental compilation...
+
+
+3:13:46 PM - Found 0 errors. Watching for file changes.
+c3:13:54 PM - Starting compilation in watch mode...
+
+ UPDATE  The latest version of `serve` is 14.2.3
+ INFO  Accepting connections at http://localhost:51720
+
+3:13:54 PM - Found 0 errors. Watching for file changes.
+ HTTP  7/3/2024 3:14:08 PM ::1 GET /
+ HTTP  7/3/2024 3:14:08 PM ::1 Returned 200 in 27 ms
+ HTTP  7/3/2024 3:14:08 PM ::1 GET /static/logos/wled.png
+ HTTP  7/3/2024 3:14:08 PM ::1 GET /static/logos/tasmota.svg
+ HTTP  7/3/2024 3:14:08 PM ::1 GET /dist/web/install-button.js
+ HTTP  7/3/2024 3:14:08 PM ::1 GET /static/logos/espeasy.png
+ HTTP  7/3/2024 3:14:08 PM ::1 GET /static/logos/canairio.png
+ HTTP  7/3/2024 3:14:08 PM ::1 Returned 200 in 7 ms
+ HTTP  7/3/2024 3:14:08 PM ::1 GET /static/logos/esphome.svg
+ HTTP  7/3/2024 3:14:08 PM ::1 Returned 200 in 7 ms
+ HTTP  7/3/2024 3:14:08 PM ::1 Returned 200 in 7 ms
+ HTTP  7/3/2024 3:14:08 PM ::1 Returned 200 in 8 ms
+ HTTP  7/3/2024 3:14:08 PM ::1 GET /static/logos/squeezelite-esp32.png
+ HTTP  7/3/2024 3:14:08 PM ::1 GET /static/logos/2smart.png
+ HTTP  7/3/2024 3:14:08 PM ::1 Returned 200 in 9 ms
+ HTTP  7/3/2024 3:14:08 PM ::1 GET /static/logos/clockwise.png
+ HTTP  7/3/2024 3:14:08 PM ::1 Returned 200 in 11 ms
+ HTTP  7/3/2024 3:14:08 PM ::1 GET /static/logos/luciferin_logo.png
+ HTTP  7/3/2024 3:14:08 PM ::1 GET /static/logos/openepaperlink.png
+ HTTP  7/3/2024 3:14:08 PM ::1 Returned 200 in 7 ms
+ HTTP  7/3/2024 3:14:08 PM ::1 Returned 200 in 7 ms
+ HTTP  7/3/2024 3:14:08 PM ::1 Returned 200 in 5 ms
+ HTTP  7/3/2024 3:14:08 PM ::1 Returned 200 in 4 ms
+ HTTP  7/3/2024 3:14:08 PM ::1 GET /static/screenshots/dashboard.png
+ HTTP  7/3/2024 3:14:08 PM ::1 GET /static/screenshots/logs.png
+ HTTP  7/3/2024 3:14:08 PM ::1 Returned 200 in 4 ms
+ HTTP  7/3/2024 3:14:08 PM ::1 Returned 200 in 1 ms
+ HTTP  7/3/2024 3:14:08 PM ::1 Returned 200 in 2 ms
+ HTTP  7/3/2024 3:14:08 PM ::1 GET /favicon.ico
+ HTTP  7/3/2024 3:14:08 PM ::1 Returned 404 in 2 ms
+ HTTP  7/3/2024 3:14:11 PM ::1 GET /
+ HTTP  7/3/2024 3:14:11 PM ::1 Returned 304 in 3 ms
+ HTTP  7/3/2024 3:14:11 PM ::1 GET /static/logos/tasmota.svg
+ HTTP  7/3/2024 3:14:11 PM ::1 GET /static/logos/wled.png
+ HTTP  7/3/2024 3:14:11 PM ::1 Returned 304 in 2 ms
+ HTTP  7/3/2024 3:14:11 PM ::1 Returned 304 in 1 ms
+ HTTP  7/3/2024 3:14:11 PM ::1 GET /dist/web/install-button.js
+ HTTP  7/3/2024 3:14:11 PM ::1 Returned 304 in 1 ms
+ HTTP  7/3/2024 3:14:11 PM ::1 GET /static/logos/espeasy.png
+ HTTP  7/3/2024 3:14:11 PM ::1 GET /static/logos/canairio.png
+ HTTP  7/3/2024 3:14:11 PM ::1 GET /static/logos/esphome.svg
+ HTTP  7/3/2024 3:14:11 PM ::1 Returned 304 in 1 ms
+ HTTP  7/3/2024 3:14:11 PM ::1 Returned 304 in 1 ms
+ HTTP  7/3/2024 3:14:11 PM ::1 GET /static/logos/2smart.png
+ HTTP  7/3/2024 3:14:11 PM ::1 GET /static/logos/squeezelite-esp32.png
+ HTTP  7/3/2024 3:14:11 PM ::1 Returned 304 in 2 ms
+ HTTP  7/3/2024 3:14:11 PM ::1 Returned 304 in 1 ms
+ HTTP  7/3/2024 3:14:11 PM ::1 GET /static/logos/clockwise.png
+ HTTP  7/3/2024 3:14:11 PM ::1 GET /static/logos/luciferin_logo.png
+ HTTP  7/3/2024 3:14:11 PM ::1 GET /static/logos/openepaperlink.png
+ HTTP  7/3/2024 3:14:11 PM ::1 Returned 304 in 2 ms
+ HTTP  7/3/2024 3:14:11 PM ::1 Returned 304 in 2 ms
+ HTTP  7/3/2024 3:14:11 PM ::1 Returned 304 in 6 ms
+ HTTP  7/3/2024 3:14:11 PM ::1 Returned 304 in 10 ms
+ HTTP  7/3/2024 3:14:11 PM ::1 GET /static/screenshots/dashboard.png
+ HTTP  7/3/2024 3:14:11 PM ::1 GET /static/screenshots/logs.png
+ HTTP  7/3/2024 3:14:11 PM ::1 Returned 304 in 1 ms
+ HTTP  7/3/2024 3:14:11 PM ::1 Returned 304 in 1 ms
+ HTTP  7/3/2024 3:14:12 PM ::1 GET /dist/web/install-dialog-DHOYRDFR.js
+ HTTP  7/3/2024 3:14:12 PM ::1 Returned 200 in 25 ms
+ HTTP  7/3/2024 3:14:12 PM ::1 GET /dist/web/styles-DzcnrAq9.js
+ HTTP  7/3/2024 3:14:12 PM ::1 Returned 200 in 4 ms
+ HTTP  7/3/2024 3:14:14 PM ::1 GET /dialog-styles.css.map
+ HTTP  7/3/2024 3:14:14 PM ::1 GET /divider-styles.css.map
+ HTTP  7/3/2024 3:14:14 PM ::1 GET /circular-progress-styles.css.map
+ HTTP  7/3/2024 3:14:14 PM ::1 Returned 404 in 6 ms
+ HTTP  7/3/2024 3:14:14 PM ::1 Returned 404 in 4 ms
+ HTTP  7/3/2024 3:14:14 PM ::1 Returned 404 in 7 ms
+c3:14:28 PM - File change detected. Starting incremental compilation...
+
+
+3:14:28 PM - Found 0 errors. Watching for file changes.
+c3:16:55 PM - File change detected. Starting incremental compilation...
+
+
+3:16:55 PM - Found 0 errors. Watching for file changes.
+c3:17:01 PM - Starting compilation in watch mode...
+
+ UPDATE  The latest version of `serve` is 14.2.3
+ INFO  Accepting connections at http://localhost:52516
+
+3:17:02 PM - Found 0 errors. Watching for file changes.
+ HTTP  7/3/2024 3:17:15 PM ::1 GET /
+ HTTP  7/3/2024 3:17:15 PM ::1 Returned 200 in 65 ms
+ HTTP  7/3/2024 3:17:15 PM ::1 GET /static/logos/wled.png
+ HTTP  7/3/2024 3:17:15 PM ::1 GET /static/logos/tasmota.svg
+ HTTP  7/3/2024 3:17:15 PM ::1 Returned 200 in 3 ms
+ HTTP  7/3/2024 3:17:15 PM ::1 Returned 200 in 2 ms
+ HTTP  7/3/2024 3:17:15 PM ::1 GET /dist/web/install-button.js
+ HTTP  7/3/2024 3:17:15 PM ::1 GET /static/logos/espeasy.png
+ HTTP  7/3/2024 3:17:15 PM ::1 GET /static/logos/canairio.png
+ HTTP  7/3/2024 3:17:15 PM ::1 GET /static/logos/esphome.svg
+ HTTP  7/3/2024 3:17:15 PM ::1 GET /static/logos/squeezelite-esp32.png
+ HTTP  7/3/2024 3:17:15 PM ::1 Returned 200 in 5 ms
+ HTTP  7/3/2024 3:17:15 PM ::1 GET /static/logos/2smart.png
+ HTTP  7/3/2024 3:17:15 PM ::1 Returned 200 in 5 ms
+ HTTP  7/3/2024 3:17:15 PM ::1 Returned 200 in 6 ms
+ HTTP  7/3/2024 3:17:15 PM ::1 Returned 200 in 5 ms
+ HTTP  7/3/2024 3:17:15 PM ::1 GET /static/logos/clockwise.png
+ HTTP  7/3/2024 3:17:15 PM ::1 Returned 200 in 8 ms
+ HTTP  7/3/2024 3:17:15 PM ::1 Returned 200 in 10 ms
+ HTTP  7/3/2024 3:17:15 PM ::1 GET /static/logos/luciferin_logo.png
+ HTTP  7/3/2024 3:17:15 PM ::1 GET /static/logos/openepaperlink.png
+ HTTP  7/3/2024 3:17:15 PM ::1 GET /static/screenshots/dashboard.png
+ HTTP  7/3/2024 3:17:15 PM ::1 GET /static/screenshots/logs.png
+ HTTP  7/3/2024 3:17:15 PM ::1 Returned 200 in 14 ms
+ HTTP  7/3/2024 3:17:15 PM ::1 Returned 200 in 11 ms
+ HTTP  7/3/2024 3:17:15 PM ::1 Returned 200 in 7 ms
+ HTTP  7/3/2024 3:17:15 PM ::1 Returned 200 in 8 ms
+ HTTP  7/3/2024 3:17:15 PM ::1 Returned 200 in 5 ms
+ HTTP  7/3/2024 3:17:15 PM ::1 GET /favicon.ico
+ HTTP  7/3/2024 3:17:15 PM ::1 Returned 404 in 2 ms
+ HTTP  7/3/2024 3:17:16 PM ::1 GET /
+ HTTP  7/3/2024 3:17:16 PM ::1 Returned 304 in 3 ms
+ HTTP  7/3/2024 3:17:16 PM ::1 GET /static/logos/wled.png
+ HTTP  7/3/2024 3:17:16 PM ::1 GET /dist/web/install-button.js
+ HTTP  7/3/2024 3:17:16 PM ::1 GET /static/logos/tasmota.svg
+ HTTP  7/3/2024 3:17:16 PM ::1 GET /static/logos/espeasy.png
+ HTTP  7/3/2024 3:17:16 PM ::1 GET /static/logos/canairio.png
+ HTTP  7/3/2024 3:17:16 PM ::1 GET /static/logos/esphome.svg
+ HTTP  7/3/2024 3:17:16 PM ::1 Returned 304 in 3 ms
+ HTTP  7/3/2024 3:17:16 PM ::1 Returned 304 in 2 ms
+ HTTP  7/3/2024 3:17:16 PM ::1 Returned 304 in 2 ms
+ HTTP  7/3/2024 3:17:16 PM ::1 Returned 304 in 2 ms
+ HTTP  7/3/2024 3:17:16 PM ::1 Returned 304 in 3 ms
+ HTTP  7/3/2024 3:17:16 PM ::1 Returned 304 in 4 ms
+ HTTP  7/3/2024 3:17:16 PM ::1 GET /static/logos/squeezelite-esp32.png
+ HTTP  7/3/2024 3:17:16 PM ::1 GET /static/logos/clockwise.png
+ HTTP  7/3/2024 3:17:16 PM ::1 GET /static/logos/2smart.png
+ HTTP  7/3/2024 3:17:16 PM ::1 Returned 304 in 4 ms
+ HTTP  7/3/2024 3:17:16 PM ::1 Returned 304 in 4 ms
+ HTTP  7/3/2024 3:17:16 PM ::1 GET /static/logos/openepaperlink.png
+ HTTP  7/3/2024 3:17:16 PM ::1 GET /static/screenshots/dashboard.png
+ HTTP  7/3/2024 3:17:16 PM ::1 GET /static/logos/luciferin_logo.png
+ HTTP  7/3/2024 3:17:16 PM ::1 Returned 304 in 6 ms
+ HTTP  7/3/2024 3:17:16 PM ::1 Returned 304 in 2 ms
+ HTTP  7/3/2024 3:17:16 PM ::1 Returned 304 in 2 ms
+ HTTP  7/3/2024 3:17:16 PM ::1 GET /static/screenshots/logs.png
+ HTTP  7/3/2024 3:17:16 PM ::1 Returned 304 in 2 ms
+ HTTP  7/3/2024 3:17:16 PM ::1 Returned 304 in 1 ms
+ HTTP  7/3/2024 3:17:19 PM ::1 GET /dist/web/install-dialog-DmM6mg8-.js
+ HTTP  7/3/2024 3:17:19 PM ::1 Returned 200 in 6 ms
+ HTTP  7/3/2024 3:17:20 PM ::1 GET /dist/web/styles-DzcnrAq9.js
+ HTTP  7/3/2024 3:17:20 PM ::1 Returned 200 in 2 ms
+ HTTP  7/3/2024 3:17:22 PM ::1 GET /dialog-styles.css.map
+ HTTP  7/3/2024 3:17:22 PM ::1 GET /divider-styles.css.map
+ HTTP  7/3/2024 3:17:22 PM ::1 GET /circular-progress-styles.css.map
+ HTTP  7/3/2024 3:17:22 PM ::1 Returned 404 in 2 ms
+ HTTP  7/3/2024 3:17:22 PM ::1 Returned 404 in 2 ms
+ HTTP  7/3/2024 3:17:22 PM ::1 Returned 404 in 3 ms
+c3:19:53 PM - File change detected. Starting incremental compilation...
+
+
+3:19:54 PM - Found 0 errors. Watching for file changes.
+c3:20:17 PM - Starting compilation in watch mode...
+
+ UPDATE  The latest version of `serve` is 14.2.3
+ INFO  Accepting connections at http://localhost:53361
+
+3:20:18 PM - Found 0 errors. Watching for file changes.
+ HTTP  7/3/2024 3:20:36 PM ::1 GET /
+ HTTP  7/3/2024 3:20:36 PM ::1 Returned 200 in 69 ms
+ HTTP  7/3/2024 3:20:36 PM ::1 GET /static/logos/wled.png
+ HTTP  7/3/2024 3:20:36 PM ::1 GET /static/logos/tasmota.svg
+ HTTP  7/3/2024 3:20:36 PM ::1 Returned 200 in 4 ms
+ HTTP  7/3/2024 3:20:36 PM ::1 Returned 200 in 3 ms
+ HTTP  7/3/2024 3:20:36 PM ::1 GET /dist/web/install-button.js
+ HTTP  7/3/2024 3:20:36 PM ::1 GET /static/logos/espeasy.png
+ HTTP  7/3/2024 3:20:36 PM ::1 GET /static/logos/canairio.png
+ HTTP  7/3/2024 3:20:36 PM ::1 GET /static/logos/squeezelite-esp32.png
+ HTTP  7/3/2024 3:20:36 PM ::1 GET /static/logos/2smart.png
+ HTTP  7/3/2024 3:20:36 PM ::1 GET /static/logos/esphome.svg
+ HTTP  7/3/2024 3:20:36 PM ::1 Returned 200 in 3 ms
+ HTTP  7/3/2024 3:20:36 PM ::1 Returned 200 in 2 ms
+ HTTP  7/3/2024 3:20:36 PM ::1 Returned 200 in 2 ms
+ HTTP  7/3/2024 3:20:36 PM ::1 Returned 200 in 3 ms
+ HTTP  7/3/2024 3:20:36 PM ::1 Returned 200 in 2 ms
+ HTTP  7/3/2024 3:20:36 PM ::1 Returned 200 in 4 ms
+ HTTP  7/3/2024 3:20:36 PM ::1 GET /static/logos/clockwise.png
+ HTTP  7/3/2024 3:20:36 PM ::1 GET /static/logos/luciferin_logo.png
+ HTTP  7/3/2024 3:20:36 PM ::1 GET /static/logos/openepaperlink.png
+ HTTP  7/3/2024 3:20:36 PM ::1 GET /static/screenshots/dashboard.png
+ HTTP  7/3/2024 3:20:36 PM ::1 GET /static/screenshots/logs.png
+ HTTP  7/3/2024 3:20:36 PM ::1 Returned 200 in 5 ms
+ HTTP  7/3/2024 3:20:36 PM ::1 Returned 200 in 4 ms
+ HTTP  7/3/2024 3:20:36 PM ::1 Returned 200 in 2 ms
+ HTTP  7/3/2024 3:20:36 PM ::1 Returned 200 in 1 ms
+ HTTP  7/3/2024 3:20:36 PM ::1 Returned 200 in 2 ms
+ HTTP  7/3/2024 3:20:36 PM ::1 GET /favicon.ico
+ HTTP  7/3/2024 3:20:36 PM ::1 Returned 404 in 1 ms
+ HTTP  7/3/2024 3:20:40 PM ::1 GET /
+ HTTP  7/3/2024 3:20:40 PM ::1 Returned 304 in 5 ms
+ HTTP  7/3/2024 3:20:40 PM ::1 GET /static/logos/wled.png
+ HTTP  7/3/2024 3:20:40 PM ::1 Returned 304 in 21 ms
+ HTTP  7/3/2024 3:20:40 PM ::1 GET /static/logos/tasmota.svg
+ HTTP  7/3/2024 3:20:40 PM ::1 Returned 304 in 5 ms
+ HTTP  7/3/2024 3:20:40 PM ::1 GET /static/logos/squeezelite-esp32.png
+ HTTP  7/3/2024 3:20:40 PM ::1 GET /dist/web/install-button.js
+ HTTP  7/3/2024 3:20:40 PM ::1 Returned 304 in 1 ms
+ HTTP  7/3/2024 3:20:40 PM ::1 Returned 304 in 2 ms
+ HTTP  7/3/2024 3:20:40 PM ::1 GET /static/logos/2smart.png
+ HTTP  7/3/2024 3:20:40 PM ::1 GET /static/logos/espeasy.png
+ HTTP  7/3/2024 3:20:40 PM ::1 GET /static/logos/clockwise.png
+ HTTP  7/3/2024 3:20:40 PM ::1 GET /static/logos/luciferin_logo.png
+ HTTP  7/3/2024 3:20:40 PM ::1 GET /static/logos/canairio.png
+ HTTP  7/3/2024 3:20:40 PM ::1 Returned 304 in 3 ms
+ HTTP  7/3/2024 3:20:40 PM ::1 Returned 304 in 4 ms
+ HTTP  7/3/2024 3:20:40 PM ::1 Returned 304 in 4 ms
+ HTTP  7/3/2024 3:20:40 PM ::1 Returned 304 in 10 ms
+ HTTP  7/3/2024 3:20:40 PM ::1 GET /static/logos/esphome.svg
+ HTTP  7/3/2024 3:20:40 PM ::1 Returned 304 in 10 ms
+ HTTP  7/3/2024 3:20:40 PM ::1 Returned 304 in 0 ms
+ HTTP  7/3/2024 3:20:40 PM ::1 GET /static/logos/openepaperlink.png
+ HTTP  7/3/2024 3:20:40 PM ::1 GET /static/screenshots/dashboard.png
+ HTTP  7/3/2024 3:20:40 PM ::1 GET /static/screenshots/logs.png
+ HTTP  7/3/2024 3:20:40 PM ::1 Returned 304 in 0 ms
+ HTTP  7/3/2024 3:20:40 PM ::1 Returned 304 in 0 ms
+ HTTP  7/3/2024 3:20:40 PM ::1 Returned 304 in 0 ms
+ HTTP  7/3/2024 3:20:41 PM ::1 GET /dist/web/install-dialog-YlEbmrGl.js
+ HTTP  7/3/2024 3:20:41 PM ::1 Returned 200 in 6 ms
+ HTTP  7/3/2024 3:20:41 PM ::1 GET /dist/web/styles-DzcnrAq9.js
+ HTTP  7/3/2024 3:20:41 PM ::1 Returned 200 in 4 ms
+ HTTP  7/3/2024 3:20:44 PM ::1 GET /dialog-styles.css.map
+ HTTP  7/3/2024 3:20:44 PM ::1 GET /divider-styles.css.map
+ HTTP  7/3/2024 3:20:44 PM ::1 GET /circular-progress-styles.css.map
+ HTTP  7/3/2024 3:20:44 PM ::1 Returned 404 in 4 ms
+ HTTP  7/3/2024 3:20:44 PM ::1 Returned 404 in 3 ms
+ HTTP  7/3/2024 3:20:44 PM ::1 Returned 404 in 3 ms
+ HTTP  7/3/2024 3:20:46 PM ::1 GET /text-styles.css.map
+ HTTP  7/3/2024 3:20:46 PM ::1 GET /focus-ring-styles.css.map
+ HTTP  7/3/2024 3:20:46 PM ::1 GET /shared-styles.css.map
+ HTTP  7/3/2024 3:20:46 PM ::1 GET /ripple-styles.css.map
+ HTTP  7/3/2024 3:20:46 PM ::1 Returned 404 in 3 ms
+ HTTP  7/3/2024 3:20:46 PM ::1 Returned 404 in 2 ms
+ HTTP  7/3/2024 3:20:46 PM ::1 Returned 404 in 2 ms
+ HTTP  7/3/2024 3:20:46 PM ::1 Returned 404 in 3 ms
+ HTTP  7/3/2024 3:20:55 PM ::1 GET /dist/web/esp32-C8_LBcJX.js
+ HTTP  7/3/2024 3:20:55 PM ::1 Returned 200 in 4 ms
+ HTTP  7/3/2024 3:20:55 PM ::1 GET /dist/web/rom-DGwTkJep.js
+ HTTP  7/3/2024 3:20:55 PM ::1 Returned 200 in 2 ms
+c3:21:53 PM - File change detected. Starting incremental compilation...
+
+
+3:21:53 PM - Found 0 errors. Watching for file changes.
+c3:22:02 PM - Starting compilation in watch mode...
+
+ UPDATE  The latest version of `serve` is 14.2.3
+ INFO  Accepting connections at http://localhost:53824
+
+3:22:03 PM - Found 0 errors. Watching for file changes.
+ HTTP  7/3/2024 3:22:20 PM ::1 GET /
+ HTTP  7/3/2024 3:22:20 PM ::1 Returned 200 in 52 ms
+ HTTP  7/3/2024 3:22:21 PM ::1 GET /static/logos/wled.png
+ HTTP  7/3/2024 3:22:21 PM ::1 GET /static/logos/tasmota.svg
+ HTTP  7/3/2024 3:22:21 PM ::1 GET /dist/web/install-button.js
+ HTTP  7/3/2024 3:22:21 PM ::1 GET /static/logos/espeasy.png
+ HTTP  7/3/2024 3:22:21 PM ::1 GET /static/logos/canairio.png
+ HTTP  7/3/2024 3:22:21 PM ::1 Returned 200 in 4 ms
+ HTTP  7/3/2024 3:22:21 PM ::1 Returned 200 in 6 ms
+ HTTP  7/3/2024 3:22:21 PM ::1 GET /static/logos/esphome.svg
+ HTTP  7/3/2024 3:22:21 PM ::1 Returned 200 in 4 ms
+ HTTP  7/3/2024 3:22:21 PM ::1 Returned 200 in 3 ms
+ HTTP  7/3/2024 3:22:21 PM ::1 Returned 200 in 3 ms
+ HTTP  7/3/2024 3:22:21 PM ::1 GET /static/logos/squeezelite-esp32.png
+ HTTP  7/3/2024 3:22:21 PM ::1 GET /static/logos/2smart.png
+ HTTP  7/3/2024 3:22:21 PM ::1 Returned 200 in 4 ms
+ HTTP  7/3/2024 3:22:21 PM ::1 GET /static/logos/clockwise.png
+ HTTP  7/3/2024 3:22:21 PM ::1 GET /static/logos/luciferin_logo.png
+ HTTP  7/3/2024 3:22:21 PM ::1 GET /static/logos/openepaperlink.png
+ HTTP  7/3/2024 3:22:21 PM ::1 Returned 200 in 4 ms
+ HTTP  7/3/2024 3:22:21 PM ::1 GET /static/screenshots/dashboard.png
+ HTTP  7/3/2024 3:22:21 PM ::1 Returned 200 in 14 ms
+ HTTP  7/3/2024 3:22:21 PM ::1 Returned 200 in 13 ms
+ HTTP  7/3/2024 3:22:21 PM ::1 GET /static/screenshots/logs.png
+ HTTP  7/3/2024 3:22:21 PM ::1 Returned 200 in 13 ms
+ HTTP  7/3/2024 3:22:21 PM ::1 Returned 200 in 12 ms
+ HTTP  7/3/2024 3:22:21 PM ::1 Returned 200 in 9 ms
+ HTTP  7/3/2024 3:22:21 PM ::1 Returned 200 in 5 ms
+ HTTP  7/3/2024 3:22:21 PM ::1 GET /favicon.ico
+ HTTP  7/3/2024 3:22:21 PM ::1 Returned 404 in 1 ms
+ HTTP  7/3/2024 3:22:22 PM ::1 GET /
+ HTTP  7/3/2024 3:22:22 PM ::1 Returned 304 in 9 ms
+ HTTP  7/3/2024 3:22:22 PM ::1 GET /static/logos/wled.png
+ HTTP  7/3/2024 3:22:22 PM ::1 GET /static/logos/tasmota.svg
+ HTTP  7/3/2024 3:22:22 PM ::1 Returned 304 in 2 ms
+ HTTP  7/3/2024 3:22:22 PM ::1 Returned 304 in 1 ms
+ HTTP  7/3/2024 3:22:22 PM ::1 GET /dist/web/install-button.js
+ HTTP  7/3/2024 3:22:22 PM ::1 GET /static/logos/espeasy.png
+ HTTP  7/3/2024 3:22:22 PM ::1 GET /static/logos/canairio.png
+ HTTP  7/3/2024 3:22:22 PM ::1 Returned 304 in 1 ms
+ HTTP  7/3/2024 3:22:22 PM ::1 Returned 304 in 2 ms
+ HTTP  7/3/2024 3:22:22 PM ::1 Returned 304 in 1 ms
+ HTTP  7/3/2024 3:22:22 PM ::1 GET /static/logos/esphome.svg
+ HTTP  7/3/2024 3:22:22 PM ::1 GET /static/logos/clockwise.png
+ HTTP  7/3/2024 3:22:22 PM ::1 GET /static/logos/luciferin_logo.png
+ HTTP  7/3/2024 3:22:22 PM ::1 GET /static/logos/openepaperlink.png
+ HTTP  7/3/2024 3:22:22 PM ::1 GET /static/logos/2smart.png
+ HTTP  7/3/2024 3:22:22 PM ::1 Returned 304 in 6 ms
+ HTTP  7/3/2024 3:22:22 PM ::1 Returned 304 in 4 ms
+ HTTP  7/3/2024 3:22:22 PM ::1 Returned 304 in 5 ms
+ HTTP  7/3/2024 3:22:22 PM ::1 Returned 304 in 9 ms
+ HTTP  7/3/2024 3:22:22 PM ::1 GET /static/logos/squeezelite-esp32.png
+ HTTP  7/3/2024 3:22:22 PM ::1 Returned 304 in 10 ms
+ HTTP  7/3/2024 3:22:22 PM ::1 Returned 304 in 2 ms
+ HTTP  7/3/2024 3:22:22 PM ::1 GET /static/screenshots/dashboard.png
+ HTTP  7/3/2024 3:22:22 PM ::1 GET /static/screenshots/logs.png
+ HTTP  7/3/2024 3:22:22 PM ::1 Returned 304 in 1 ms
+ HTTP  7/3/2024 3:22:22 PM ::1 Returned 304 in 1 ms
+ HTTP  7/3/2024 3:22:24 PM ::1 GET /dist/web/install-dialog-DpI3Z5tE.js
+ HTTP  7/3/2024 3:22:24 PM ::1 Returned 200 in 12 ms
+ HTTP  7/3/2024 3:22:24 PM ::1 GET /dist/web/styles-DzcnrAq9.js
+ HTTP  7/3/2024 3:22:24 PM ::1 Returned 200 in 4 ms
+ HTTP  7/3/2024 3:22:26 PM ::1 GET /divider-styles.css.map
+ HTTP  7/3/2024 3:22:26 PM ::1 GET /dialog-styles.css.map
+ HTTP  7/3/2024 3:22:26 PM ::1 GET /circular-progress-styles.css.map
+ HTTP  7/3/2024 3:22:26 PM ::1 Returned 404 in 5 ms
+ HTTP  7/3/2024 3:22:26 PM ::1 Returned 404 in 2 ms
+ HTTP  7/3/2024 3:22:26 PM ::1 Returned 404 in 3 ms
+ HTTP  7/3/2024 3:22:28 PM ::1 GET /shared-styles.css.map
+ HTTP  7/3/2024 3:22:28 PM ::1 GET /text-styles.css.map
+ HTTP  7/3/2024 3:22:28 PM ::1 GET /focus-ring-styles.css.map
+ HTTP  7/3/2024 3:22:28 PM ::1 GET /ripple-styles.css.map
+ HTTP  7/3/2024 3:22:28 PM ::1 Returned 404 in 3 ms
+ HTTP  7/3/2024 3:22:28 PM ::1 Returned 404 in 2 ms
+ HTTP  7/3/2024 3:22:28 PM ::1 Returned 404 in 3 ms
+ HTTP  7/3/2024 3:22:28 PM ::1 Returned 404 in 2 ms
+c3:23:12 PM - File change detected. Starting incremental compilation...
+
+src/install-dialog.ts(578,26): error TS2554: Expected 0 arguments, but got 1.
+
+3:23:13 PM - Found 1 error. Watching for file changes.
+c3:25:21 PM - File change detected. Starting incremental compilation...
+
+
+3:25:22 PM - Found 0 errors. Watching for file changes.
+c3:25:41 PM - Starting compilation in watch mode...
+
+ UPDATE  The latest version of `serve` is 14.2.3
+ INFO  Accepting connections at http://localhost:54775
+
+3:25:41 PM - Found 0 errors. Watching for file changes.
+ HTTP  7/3/2024 3:25:56 PM ::1 GET /
+ HTTP  7/3/2024 3:25:56 PM ::1 Returned 200 in 61 ms
+ HTTP  7/3/2024 3:25:56 PM ::1 GET /static/logos/wled.png
+ HTTP  7/3/2024 3:25:56 PM ::1 GET /static/logos/tasmota.svg
+ HTTP  7/3/2024 3:25:56 PM ::1 Returned 200 in 3 ms
+ HTTP  7/3/2024 3:25:56 PM ::1 Returned 200 in 5 ms
+ HTTP  7/3/2024 3:25:56 PM ::1 GET /dist/web/install-button.js
+ HTTP  7/3/2024 3:25:56 PM ::1 Returned 200 in 2 ms
+ HTTP  7/3/2024 3:25:56 PM ::1 GET /static/logos/espeasy.png
+ HTTP  7/3/2024 3:25:56 PM ::1 GET /static/logos/canairio.png
+ HTTP  7/3/2024 3:25:56 PM ::1 GET /static/logos/esphome.svg
+ HTTP  7/3/2024 3:25:56 PM ::1 GET /static/logos/squeezelite-esp32.png
+ HTTP  7/3/2024 3:25:56 PM ::1 GET /static/logos/clockwise.png
+ HTTP  7/3/2024 3:25:56 PM ::1 GET /static/logos/2smart.png
+ HTTP  7/3/2024 3:25:56 PM ::1 Returned 200 in 4 ms
+ HTTP  7/3/2024 3:25:56 PM ::1 Returned 200 in 3 ms
+ HTTP  7/3/2024 3:25:56 PM ::1 Returned 200 in 3 ms
+ HTTP  7/3/2024 3:25:56 PM ::1 Returned 200 in 3 ms
+ HTTP  7/3/2024 3:25:56 PM ::1 Returned 200 in 3 ms
+ HTTP  7/3/2024 3:25:56 PM ::1 Returned 200 in 3 ms
+ HTTP  7/3/2024 3:25:56 PM ::1 GET /static/logos/luciferin_logo.png
+ HTTP  7/3/2024 3:25:56 PM ::1 GET /static/logos/openepaperlink.png
+ HTTP  7/3/2024 3:25:56 PM ::1 GET /static/screenshots/dashboard.png
+ HTTP  7/3/2024 3:25:56 PM ::1 Returned 200 in 2 ms
+ HTTP  7/3/2024 3:25:56 PM ::1 GET /static/screenshots/logs.png
+ HTTP  7/3/2024 3:25:56 PM ::1 Returned 200 in 1 ms
+ HTTP  7/3/2024 3:25:56 PM ::1 Returned 200 in 2 ms
+ HTTP  7/3/2024 3:25:56 PM ::1 Returned 200 in 1 ms
+ HTTP  7/3/2024 3:25:56 PM ::1 GET /favicon.ico
+ HTTP  7/3/2024 3:25:56 PM ::1 Returned 404 in 4 ms
+ HTTP  7/3/2024 3:25:57 PM ::1 GET /
+ HTTP  7/3/2024 3:25:57 PM ::1 Returned 304 in 3 ms
+ HTTP  7/3/2024 3:25:57 PM ::1 GET /static/logos/wled.png
+ HTTP  7/3/2024 3:25:57 PM ::1 GET /static/logos/tasmota.svg
+ HTTP  7/3/2024 3:25:57 PM ::1 GET /dist/web/install-button.js
+ HTTP  7/3/2024 3:25:57 PM ::1 Returned 304 in 5 ms
+ HTTP  7/3/2024 3:25:57 PM ::1 Returned 304 in 3 ms
+ HTTP  7/3/2024 3:25:57 PM ::1 Returned 304 in 3 ms
+ HTTP  7/3/2024 3:25:57 PM ::1 GET /static/logos/espeasy.png
+ HTTP  7/3/2024 3:25:57 PM ::1 GET /static/logos/canairio.png
+ HTTP  7/3/2024 3:25:57 PM ::1 GET /static/logos/esphome.svg
+ HTTP  7/3/2024 3:25:57 PM ::1 GET /static/logos/2smart.png
+ HTTP  7/3/2024 3:25:57 PM ::1 GET /static/logos/squeezelite-esp32.png
+ HTTP  7/3/2024 3:25:57 PM ::1 GET /static/logos/clockwise.png
+ HTTP  7/3/2024 3:25:57 PM ::1 Returned 304 in 3 ms
+ HTTP  7/3/2024 3:25:57 PM ::1 Returned 304 in 4 ms
+ HTTP  7/3/2024 3:25:57 PM ::1 Returned 304 in 3 ms
+ HTTP  7/3/2024 3:25:57 PM ::1 Returned 304 in 6 ms
+ HTTP  7/3/2024 3:25:57 PM ::1 Returned 304 in 5 ms
+ HTTP  7/3/2024 3:25:57 PM ::1 Returned 304 in 13 ms
+ HTTP  7/3/2024 3:25:57 PM ::1 GET /static/logos/openepaperlink.png
+ HTTP  7/3/2024 3:25:57 PM ::1 GET /static/logos/luciferin_logo.png
+ HTTP  7/3/2024 3:25:57 PM ::1 GET /static/screenshots/dashboard.png
+ HTTP  7/3/2024 3:25:57 PM ::1 GET /static/screenshots/logs.png
+ HTTP  7/3/2024 3:25:57 PM ::1 Returned 304 in 2 ms
+ HTTP  7/3/2024 3:25:57 PM ::1 Returned 304 in 2 ms
+ HTTP  7/3/2024 3:25:57 PM ::1 Returned 304 in 2 ms
+ HTTP  7/3/2024 3:25:57 PM ::1 Returned 304 in 2 ms
+ HTTP  7/3/2024 3:25:59 PM ::1 GET /dist/web/install-dialog-ZDVMmYSy.js
+ HTTP  7/3/2024 3:25:59 PM ::1 Returned 200 in 22 ms
+ HTTP  7/3/2024 3:25:59 PM ::1 GET /dist/web/styles-DzcnrAq9.js
+ HTTP  7/3/2024 3:25:59 PM ::1 Returned 200 in 15 ms
+ HTTP  7/3/2024 3:26:02 PM ::1 GET /dialog-styles.css.map
+ HTTP  7/3/2024 3:26:02 PM ::1 GET /divider-styles.css.map
+ HTTP  7/3/2024 3:26:02 PM ::1 GET /circular-progress-styles.css.map
+ HTTP  7/3/2024 3:26:02 PM ::1 Returned 404 in 3 ms
+ HTTP  7/3/2024 3:26:02 PM ::1 Returned 404 in 3 ms
+ HTTP  7/3/2024 3:26:02 PM ::1 Returned 404 in 3 ms
+ HTTP  7/3/2024 3:26:05 PM ::1 GET /dist/web/esp32-C8_LBcJX.js
+ HTTP  7/3/2024 3:26:05 PM ::1 Returned 200 in 4 ms
+ HTTP  7/3/2024 3:26:05 PM ::1 GET /dist/web/rom-DGwTkJep.js
+ HTTP  7/3/2024 3:26:05 PM ::1 Returned 200 in 2 ms
+ HTTP  7/3/2024 3:28:00 PM ::1 GET /
+ HTTP  7/3/2024 3:28:00 PM ::1 Returned 304 in 22 ms
+ HTTP  7/3/2024 3:28:00 PM ::1 GET /static/logos/wled.png
+ HTTP  7/3/2024 3:28:00 PM ::1 Returned 304 in 1 ms
+ HTTP  7/3/2024 3:28:00 PM ::1 GET /static/logos/tasmota.svg
+ HTTP  7/3/2024 3:28:00 PM ::1 GET /dist/web/install-button.js
+ HTTP  7/3/2024 3:28:00 PM ::1 Returned 304 in 1 ms
+ HTTP  7/3/2024 3:28:00 PM ::1 Returned 304 in 1 ms
+ HTTP  7/3/2024 3:28:00 PM ::1 GET /static/logos/espeasy.png
+ HTTP  7/3/2024 3:28:00 PM ::1 Returned 304 in 0 ms
+ HTTP  7/3/2024 3:28:00 PM ::1 GET /static/logos/canairio.png
+ HTTP  7/3/2024 3:28:00 PM ::1 Returned 304 in 1 ms
+ HTTP  7/3/2024 3:28:00 PM ::1 GET /static/logos/clockwise.png
+ HTTP  7/3/2024 3:28:00 PM ::1 GET /static/logos/2smart.png
+ HTTP  7/3/2024 3:28:00 PM ::1 GET /static/logos/esphome.svg
+ HTTP  7/3/2024 3:28:00 PM ::1 Returned 304 in 1 ms
+ HTTP  7/3/2024 3:28:00 PM ::1 Returned 304 in 2 ms
+ HTTP  7/3/2024 3:28:00 PM ::1 GET /static/logos/luciferin_logo.png
+ HTTP  7/3/2024 3:28:00 PM ::1 GET /static/logos/openepaperlink.png
+ HTTP  7/3/2024 3:28:00 PM ::1 GET /static/logos/squeezelite-esp32.png
+ HTTP  7/3/2024 3:28:00 PM ::1 Returned 304 in 5 ms
+ HTTP  7/3/2024 3:28:00 PM ::1 Returned 304 in 3 ms
+ HTTP  7/3/2024 3:28:00 PM ::1 Returned 304 in 4 ms
+ HTTP  7/3/2024 3:28:00 PM ::1 GET /static/screenshots/dashboard.png
+ HTTP  7/3/2024 3:28:00 PM ::1 GET /static/screenshots/logs.png
+ HTTP  7/3/2024 3:28:00 PM ::1 Returned 304 in 7 ms
+ HTTP  7/3/2024 3:28:00 PM ::1 Returned 304 in 2 ms
+ HTTP  7/3/2024 3:28:00 PM ::1 Returned 304 in 2 ms
+c3:29:06 PM - File change detected. Starting incremental compilation...
+
+
+3:29:07 PM - Found 0 errors. Watching for file changes.
+c3:29:14 PM - Starting compilation in watch mode...
+
+ UPDATE  The latest version of `serve` is 14.2.3
+ INFO  Accepting connections at http://localhost:55706
+
+3:29:15 PM - Found 0 errors. Watching for file changes.
+ HTTP  7/3/2024 3:29:43 PM ::1 GET /
+ HTTP  7/3/2024 3:29:43 PM ::1 Returned 200 in 85 ms
+ HTTP  7/3/2024 3:29:43 PM ::1 GET /static/logos/wled.png
+ HTTP  7/3/2024 3:29:43 PM ::1 GET /static/logos/tasmota.svg
+ HTTP  7/3/2024 3:29:43 PM ::1 Returned 200 in 1 ms
+ HTTP  7/3/2024 3:29:43 PM ::1 Returned 200 in 2 ms
+ HTTP  7/3/2024 3:29:43 PM ::1 GET /dist/web/install-button.js
+ HTTP  7/3/2024 3:29:43 PM ::1 GET /static/logos/espeasy.png
+ HTTP  7/3/2024 3:29:43 PM ::1 GET /static/logos/canairio.png
+ HTTP  7/3/2024 3:29:43 PM ::1 GET /static/logos/esphome.svg
+ HTTP  7/3/2024 3:29:43 PM ::1 GET /static/logos/squeezelite-esp32.png
+ HTTP  7/3/2024 3:29:43 PM ::1 Returned 200 in 5 ms
+ HTTP  7/3/2024 3:29:43 PM ::1 GET /static/logos/2smart.png
+ HTTP  7/3/2024 3:29:43 PM ::1 Returned 200 in 3 ms
+ HTTP  7/3/2024 3:29:43 PM ::1 Returned 200 in 3 ms
+ HTTP  7/3/2024 3:29:43 PM ::1 Returned 200 in 3 ms
+ HTTP  7/3/2024 3:29:43 PM ::1 GET /static/logos/clockwise.png
+ HTTP  7/3/2024 3:29:43 PM ::1 Returned 200 in 5 ms
+ HTTP  7/3/2024 3:29:43 PM ::1 GET /static/logos/luciferin_logo.png
+ HTTP  7/3/2024 3:29:43 PM ::1 GET /static/logos/openepaperlink.png
+ HTTP  7/3/2024 3:29:43 PM ::1 Returned 200 in 5 ms
+ HTTP  7/3/2024 3:29:43 PM ::1 GET /static/screenshots/dashboard.png
+ HTTP  7/3/2024 3:29:43 PM ::1 GET /static/screenshots/logs.png
+ HTTP  7/3/2024 3:29:43 PM ::1 Returned 200 in 3 ms
+ HTTP  7/3/2024 3:29:43 PM ::1 Returned 200 in 4 ms
+ HTTP  7/3/2024 3:29:43 PM ::1 Returned 200 in 3 ms
+ HTTP  7/3/2024 3:29:43 PM ::1 Returned 200 in 1 ms
+ HTTP  7/3/2024 3:29:43 PM ::1 Returned 200 in 1 ms
+ HTTP  7/3/2024 3:29:43 PM ::1 GET /favicon.ico
+ HTTP  7/3/2024 3:29:43 PM ::1 Returned 404 in 4 ms
+ HTTP  7/3/2024 3:29:45 PM ::1 GET /
+ HTTP  7/3/2024 3:29:45 PM ::1 Returned 304 in 4 ms
+ HTTP  7/3/2024 3:29:45 PM ::1 GET /static/logos/wled.png
+ HTTP  7/3/2024 3:29:45 PM ::1 GET /static/logos/tasmota.svg
+ HTTP  7/3/2024 3:29:45 PM ::1 Returned 304 in 1 ms
+ HTTP  7/3/2024 3:29:45 PM ::1 GET /dist/web/install-button.js
+ HTTP  7/3/2024 3:29:45 PM ::1 GET /static/logos/espeasy.png
+ HTTP  7/3/2024 3:29:45 PM ::1 Returned 304 in 2 ms
+ HTTP  7/3/2024 3:29:45 PM ::1 Returned 304 in 1 ms
+ HTTP  7/3/2024 3:29:45 PM ::1 GET /static/logos/canairio.png
+ HTTP  7/3/2024 3:29:45 PM ::1 GET /static/logos/esphome.svg
+ HTTP  7/3/2024 3:29:45 PM ::1 Returned 304 in 3 ms
+ HTTP  7/3/2024 3:29:45 PM ::1 Returned 304 in 1 ms
+ HTTP  7/3/2024 3:29:45 PM ::1 Returned 304 in 2 ms
+ HTTP  7/3/2024 3:29:45 PM ::1 GET /static/logos/squeezelite-esp32.png
+ HTTP  7/3/2024 3:29:45 PM ::1 GET /static/logos/2smart.png
+ HTTP  7/3/2024 3:29:45 PM ::1 GET /static/logos/clockwise.png
+ HTTP  7/3/2024 3:29:45 PM ::1 Returned 304 in 11 ms
+ HTTP  7/3/2024 3:29:45 PM ::1 Returned 304 in 11 ms
+ HTTP  7/3/2024 3:29:45 PM ::1 Returned 304 in 9 ms
+ HTTP  7/3/2024 3:29:45 PM ::1 GET /static/logos/luciferin_logo.png
+ HTTP  7/3/2024 3:29:45 PM ::1 GET /static/logos/openepaperlink.png
+ HTTP  7/3/2024 3:29:45 PM ::1 GET /static/screenshots/dashboard.png
+ HTTP  7/3/2024 3:29:45 PM ::1 Returned 304 in 1 ms
+ HTTP  7/3/2024 3:29:45 PM ::1 Returned 304 in 1 ms
+ HTTP  7/3/2024 3:29:45 PM ::1 GET /static/screenshots/logs.png
+ HTTP  7/3/2024 3:29:45 PM ::1 Returned 304 in 3 ms
+ HTTP  7/3/2024 3:29:45 PM ::1 Returned 304 in 1 ms
+ HTTP  7/3/2024 3:29:46 PM ::1 GET /dist/web/install-dialog-DdoO3_uG.js
+ HTTP  7/3/2024 3:29:46 PM ::1 Returned 200 in 6 ms
+ HTTP  7/3/2024 3:29:46 PM ::1 GET /dist/web/styles-DzcnrAq9.js
+ HTTP  7/3/2024 3:29:46 PM ::1 Returned 200 in 4 ms
+ HTTP  7/3/2024 3:29:48 PM ::1 GET /dialog-styles.css.map
+ HTTP  7/3/2024 3:29:48 PM ::1 GET /divider-styles.css.map
+ HTTP  7/3/2024 3:29:48 PM ::1 GET /circular-progress-styles.css.map
+ HTTP  7/3/2024 3:29:48 PM ::1 Returned 404 in 4 ms
+ HTTP  7/3/2024 3:29:48 PM ::1 Returned 404 in 2 ms
+ HTTP  7/3/2024 3:29:48 PM ::1 Returned 404 in 3 ms
+ HTTP  7/3/2024 3:29:52 PM ::1 GET /dist/web/esp32-C8_LBcJX.js
+ HTTP  7/3/2024 3:29:52 PM ::1 Returned 200 in 4 ms
+ HTTP  7/3/2024 3:29:52 PM ::1 GET /dist/web/rom-DGwTkJep.js
+ HTTP  7/3/2024 3:29:52 PM ::1 Returned 200 in 1 ms
+ HTTP  7/3/2024 3:31:42 PM ::1 GET /shared-styles.css.map
+ HTTP  7/3/2024 3:31:42 PM ::1 GET /text-styles.css.map
+ HTTP  7/3/2024 3:31:42 PM ::1 GET /focus-ring-styles.css.map
+ HTTP  7/3/2024 3:31:42 PM ::1 GET /ripple-styles.css.map
+ HTTP  7/3/2024 3:31:42 PM ::1 Returned 404 in 134 ms
+ HTTP  7/3/2024 3:31:42 PM ::1 Returned 404 in 69 ms
+ HTTP  7/3/2024 3:31:42 PM ::1 Returned 404 in 58 ms
+ HTTP  7/3/2024 3:31:42 PM ::1 Returned 404 in 30 ms
+c3:32:14 PM - File change detected. Starting incremental compilation...
+
+
+3:32:14 PM - Found 0 errors. Watching for file changes.
+c3:35:58 PM - File change detected. Starting incremental compilation...
+
+src/install-dialog.ts(668,13): error TS6133: 'supportsImprov' is declared but its value is never read.
+
+3:35:58 PM - Found 1 error. Watching for file changes.
+src/install-dialog.ts(668,13): error TS6133: 'supportsImprov' is declared but its value is never read.
+c3:36:05 PM - Starting compilation in watch mode...
+
+ UPDATE  The latest version of `serve` is 14.2.3
+ INFO  Accepting connections at http://localhost:57484
+src/install-dialog.ts(668,13): error TS6133: 'supportsImprov' is declared but its value is never read.
+
+3:36:05 PM - Found 1 error. Watching for file changes.
+ HTTP  7/3/2024 3:36:23 PM ::1 GET /
+ HTTP  7/3/2024 3:36:23 PM ::1 Returned 200 in 82 ms
+ HTTP  7/3/2024 3:36:23 PM ::1 GET /static/logos/wled.png
+ HTTP  7/3/2024 3:36:23 PM ::1 GET /static/logos/tasmota.svg
+ HTTP  7/3/2024 3:36:23 PM ::1 Returned 200 in 5 ms
+ HTTP  7/3/2024 3:36:23 PM ::1 Returned 200 in 8 ms
+ HTTP  7/3/2024 3:36:23 PM ::1 GET /dist/web/install-button.js
+ HTTP  7/3/2024 3:36:23 PM ::1 GET /static/logos/espeasy.png
+ HTTP  7/3/2024 3:36:23 PM ::1 GET /static/logos/canairio.png
+ HTTP  7/3/2024 3:36:23 PM ::1 GET /static/logos/esphome.svg
+ HTTP  7/3/2024 3:36:23 PM ::1 GET /static/logos/squeezelite-esp32.png
+ HTTP  7/3/2024 3:36:23 PM ::1 GET /static/logos/2smart.png
+ HTTP  7/3/2024 3:36:23 PM ::1 Returned 200 in 4 ms
+ HTTP  7/3/2024 3:36:23 PM ::1 Returned 200 in 2 ms
+ HTTP  7/3/2024 3:36:23 PM ::1 Returned 200 in 1 ms
+ HTTP  7/3/2024 3:36:23 PM ::1 Returned 200 in 4 ms
+ HTTP  7/3/2024 3:36:23 PM ::1 Returned 200 in 3 ms
+ HTTP  7/3/2024 3:36:23 PM ::1 Returned 200 in 3 ms
+ HTTP  7/3/2024 3:36:23 PM ::1 GET /static/logos/clockwise.png
+ HTTP  7/3/2024 3:36:23 PM ::1 GET /static/logos/luciferin_logo.png
+ HTTP  7/3/2024 3:36:23 PM ::1 GET /static/logos/openepaperlink.png
+ HTTP  7/3/2024 3:36:23 PM ::1 GET /static/screenshots/dashboard.png
+ HTTP  7/3/2024 3:36:23 PM ::1 GET /static/screenshots/logs.png
+ HTTP  7/3/2024 3:36:23 PM ::1 Returned 200 in 1 ms
+ HTTP  7/3/2024 3:36:23 PM ::1 Returned 200 in 1 ms
+ HTTP  7/3/2024 3:36:23 PM ::1 Returned 200 in 2 ms
+ HTTP  7/3/2024 3:36:23 PM ::1 Returned 200 in 2 ms
+ HTTP  7/3/2024 3:36:23 PM ::1 Returned 200 in 1 ms
+ HTTP  7/3/2024 3:36:23 PM ::1 GET /favicon.ico
+ HTTP  7/3/2024 3:36:23 PM ::1 Returned 404 in 5 ms
+ HTTP  7/3/2024 3:36:24 PM ::1 GET /
+ HTTP  7/3/2024 3:36:24 PM ::1 Returned 304 in 5 ms
+ HTTP  7/3/2024 3:36:24 PM ::1 GET /static/logos/wled.png
+ HTTP  7/3/2024 3:36:24 PM ::1 GET /static/logos/tasmota.svg
+ HTTP  7/3/2024 3:36:24 PM ::1 Returned 304 in 4 ms
+ HTTP  7/3/2024 3:36:24 PM ::1 Returned 304 in 2 ms
+ HTTP  7/3/2024 3:36:24 PM ::1 GET /dist/web/install-button.js
+ HTTP  7/3/2024 3:36:24 PM ::1 GET /static/logos/espeasy.png
+ HTTP  7/3/2024 3:36:24 PM ::1 Returned 304 in 5 ms
+ HTTP  7/3/2024 3:36:24 PM ::1 Returned 304 in 2 ms
+ HTTP  7/3/2024 3:36:24 PM ::1 GET /static/logos/squeezelite-esp32.png
+ HTTP  7/3/2024 3:36:24 PM ::1 GET /static/logos/2smart.png
+ HTTP  7/3/2024 3:36:24 PM ::1 GET /static/logos/canairio.png
+ HTTP  7/3/2024 3:36:24 PM ::1 Returned 304 in 2 ms
+ HTTP  7/3/2024 3:36:24 PM ::1 Returned 304 in 1 ms
+ HTTP  7/3/2024 3:36:24 PM ::1 GET /static/logos/clockwise.png
+ HTTP  7/3/2024 3:36:24 PM ::1 GET /static/logos/esphome.svg
+ HTTP  7/3/2024 3:36:24 PM ::1 Returned 304 in 4 ms
+ HTTP  7/3/2024 3:36:24 PM ::1 Returned 304 in 1 ms
+ HTTP  7/3/2024 3:36:24 PM ::1 GET /static/logos/luciferin_logo.png
+ HTTP  7/3/2024 3:36:24 PM ::1 GET /static/screenshots/dashboard.png
+ HTTP  7/3/2024 3:36:24 PM ::1 GET /static/logos/openepaperlink.png
+ HTTP  7/3/2024 3:36:24 PM ::1 Returned 304 in 2 ms
+ HTTP  7/3/2024 3:36:24 PM ::1 Returned 304 in 1 ms
+ HTTP  7/3/2024 3:36:24 PM ::1 Returned 304 in 1 ms
+ HTTP  7/3/2024 3:36:24 PM ::1 GET /static/screenshots/logs.png
+ HTTP  7/3/2024 3:36:24 PM ::1 Returned 304 in 2 ms
+ HTTP  7/3/2024 3:36:24 PM ::1 Returned 304 in 0 ms
+ HTTP  7/3/2024 3:36:27 PM ::1 GET /dist/web/install-dialog--CJ67AZX.js
+ HTTP  7/3/2024 3:36:27 PM ::1 Returned 200 in 6 ms
+ HTTP  7/3/2024 3:36:27 PM ::1 GET /dist/web/styles-ptKjs46a.js
+ HTTP  7/3/2024 3:36:27 PM ::1 Returned 200 in 4 ms
+ HTTP  7/3/2024 3:36:29 PM ::1 GET /circular-progress-styles.css.map
+ HTTP  7/3/2024 3:36:29 PM ::1 GET /dialog-styles.css.map
+ HTTP  7/3/2024 3:36:29 PM ::1 GET /divider-styles.css.map
+ HTTP  7/3/2024 3:36:29 PM ::1 Returned 404 in 7 ms
+ HTTP  7/3/2024 3:36:29 PM ::1 Returned 404 in 14 ms
+ HTTP  7/3/2024 3:36:29 PM ::1 Returned 404 in 17 ms
+ HTTP  7/3/2024 3:36:32 PM ::1 GET /dist/web/esp32-C8_LBcJX.js
+ HTTP  7/3/2024 3:36:32 PM ::1 Returned 200 in 6 ms
+ HTTP  7/3/2024 3:36:32 PM ::1 GET /dist/web/rom-DGwTkJep.js
+ HTTP  7/3/2024 3:36:32 PM ::1 Returned 200 in 2 ms
+ HTTP  7/3/2024 3:38:23 PM ::1 GET /text-styles.css.map
+ HTTP  7/3/2024 3:38:23 PM ::1 GET /focus-ring-styles.css.map
+ HTTP  7/3/2024 3:38:23 PM ::1 GET /ripple-styles.css.map
+ HTTP  7/3/2024 3:38:23 PM ::1 GET /shared-styles.css.map
+ HTTP  7/3/2024 3:38:23 PM ::1 Returned 404 in 31 ms
+ HTTP  7/3/2024 3:38:23 PM ::1 Returned 404 in 14 ms
+ HTTP  7/3/2024 3:38:23 PM ::1 Returned 404 in 12 ms
+ HTTP  7/3/2024 3:38:23 PM ::1 Returned 404 in 22 ms
+ HTTP  7/3/2024 3:39:37 PM ::1 GET /
+ HTTP  7/3/2024 3:39:37 PM ::1 Returned 304 in 18 ms
+ HTTP  7/3/2024 3:39:37 PM ::1 GET /static/logos/wled.png
+ HTTP  7/3/2024 3:39:37 PM ::1 Returned 304 in 2 ms
+ HTTP  7/3/2024 3:39:37 PM ::1 GET /static/logos/tasmota.svg
+ HTTP  7/3/2024 3:39:37 PM ::1 GET /static/logos/canairio.png
+ HTTP  7/3/2024 3:39:37 PM ::1 Returned 304 in 1 ms
+ HTTP  7/3/2024 3:39:37 PM ::1 Returned 304 in 1 ms
+ HTTP  7/3/2024 3:39:37 PM ::1 GET /dist/web/install-button.js
+ HTTP  7/3/2024 3:39:37 PM ::1 GET /static/logos/2smart.png
+ HTTP  7/3/2024 3:39:37 PM ::1 GET /static/logos/clockwise.png
+ HTTP  7/3/2024 3:39:37 PM ::1 GET /static/logos/espeasy.png
+ HTTP  7/3/2024 3:39:37 PM ::1 Returned 304 in 18 ms
+ HTTP  7/3/2024 3:39:37 PM ::1 Returned 304 in 18 ms
+ HTTP  7/3/2024 3:39:37 PM ::1 Returned 304 in 17 ms
+ HTTP  7/3/2024 3:39:37 PM ::1 GET /static/logos/esphome.svg
+ HTTP  7/3/2024 3:39:37 PM ::1 Returned 304 in 30 ms
+ HTTP  7/3/2024 3:39:37 PM ::1 GET /static/logos/luciferin_logo.png
+ HTTP  7/3/2024 3:39:37 PM ::1 GET /static/screenshots/dashboard.png
+ HTTP  7/3/2024 3:39:37 PM ::1 GET /static/logos/openepaperlink.png
+ HTTP  7/3/2024 3:39:37 PM ::1 GET /static/logos/squeezelite-esp32.png
+ HTTP  7/3/2024 3:39:37 PM ::1 Returned 304 in 4 ms
+ HTTP  7/3/2024 3:39:37 PM ::1 Returned 304 in 2 ms
+ HTTP  7/3/2024 3:39:37 PM ::1 Returned 304 in 2 ms
+ HTTP  7/3/2024 3:39:37 PM ::1 Returned 304 in 2 ms
+ HTTP  7/3/2024 3:39:37 PM ::1 GET /static/screenshots/logs.png
+ HTTP  7/3/2024 3:39:37 PM ::1 Returned 304 in 2 ms
+ HTTP  7/3/2024 3:39:37 PM ::1 Returned 304 in 1 ms
+src/install-dialog.ts(668,13): error TS6133: 'supportsImprov' is declared but its value is never read.
+c3:56:57 PM - Starting compilation in watch mode...
+
+ UPDATE  The latest version of `serve` is 14.2.3
+ INFO  Accepting connections at http://localhost:62868
+src/install-dialog.ts(668,13): error TS6133: 'supportsImprov' is declared but its value is never read.
+
+3:56:58 PM - Found 1 error. Watching for file changes.
+ HTTP  7/3/2024 3:58:12 PM ::1 GET /
+ HTTP  7/3/2024 3:58:12 PM ::1 Returned 200 in 72 ms
+ HTTP  7/3/2024 3:58:12 PM ::1 GET /static/logos/wled.png
+ HTTP  7/3/2024 3:58:12 PM ::1 GET /static/logos/tasmota.svg
+ HTTP  7/3/2024 3:58:12 PM ::1 GET /dist/web/install-button.js
+ HTTP  7/3/2024 3:58:12 PM ::1 Returned 200 in 6 ms
+ HTTP  7/3/2024 3:58:12 PM ::1 Returned 200 in 9 ms
+ HTTP  7/3/2024 3:58:12 PM ::1 Returned 200 in 10 ms
+ HTTP  7/3/2024 3:58:12 PM ::1 GET /static/logos/espeasy.png
+ HTTP  7/3/2024 3:58:12 PM ::1 GET /static/logos/canairio.png
+ HTTP  7/3/2024 3:58:12 PM ::1 GET /static/logos/esphome.svg
+ HTTP  7/3/2024 3:58:12 PM ::1 GET /static/logos/squeezelite-esp32.png
+ HTTP  7/3/2024 3:58:12 PM ::1 GET /static/logos/2smart.png
+ HTTP  7/3/2024 3:58:12 PM ::1 Returned 200 in 5 ms
+ HTTP  7/3/2024 3:58:12 PM ::1 GET /chrome.css.map
+ HTTP  7/3/2024 3:58:12 PM ::1 Returned 200 in 7 ms
+ HTTP  7/3/2024 3:58:12 PM ::1 Returned 200 in 8 ms
+ HTTP  7/3/2024 3:58:12 PM ::1 Returned 200 in 8 ms
+ HTTP  7/3/2024 3:58:12 PM ::1 GET /static/logos/clockwise.png
+ HTTP  7/3/2024 3:58:12 PM ::1 Returned 200 in 9 ms
+ HTTP  7/3/2024 3:58:12 PM ::1 GET /static/logos/luciferin_logo.png
+ HTTP  7/3/2024 3:58:12 PM ::1 GET /static/logos/openepaperlink.png
+ HTTP  7/3/2024 3:58:12 PM ::1 Returned 404 in 13 ms
+ HTTP  7/3/2024 3:58:12 PM ::1 GET /static/screenshots/dashboard.png
+ HTTP  7/3/2024 3:58:12 PM ::1 GET /static/screenshots/logs.png
+ HTTP  7/3/2024 3:58:12 PM ::1 Returned 200 in 11 ms
+ HTTP  7/3/2024 3:58:12 PM ::1 Returned 200 in 9 ms
+ HTTP  7/3/2024 3:58:12 PM ::1 Returned 200 in 6 ms
+ HTTP  7/3/2024 3:58:12 PM ::1 Returned 200 in 8 ms
+ HTTP  7/3/2024 3:58:12 PM ::1 Returned 200 in 7 ms
+ HTTP  7/3/2024 3:58:12 PM ::1 GET /favicon.ico
+ HTTP  7/3/2024 3:58:12 PM ::1 Returned 404 in 18 ms
+ HTTP  7/3/2024 3:58:15 PM ::1 GET /
+ HTTP  7/3/2024 3:58:15 PM ::1 Returned 304 in 3 ms
+ HTTP  7/3/2024 3:58:15 PM ::1 GET /static/logos/wled.png
+ HTTP  7/3/2024 3:58:15 PM ::1 GET /static/logos/tasmota.svg
+ HTTP  7/3/2024 3:58:15 PM ::1 GET /dist/web/install-button.js
+ HTTP  7/3/2024 3:58:15 PM ::1 GET /static/logos/espeasy.png
+ HTTP  7/3/2024 3:58:15 PM ::1 GET /static/logos/canairio.png
+ HTTP  7/3/2024 3:58:15 PM ::1 Returned 304 in 3 ms
+ HTTP  7/3/2024 3:58:15 PM ::1 Returned 304 in 3 ms
+ HTTP  7/3/2024 3:58:15 PM ::1 Returned 304 in 4 ms
+ HTTP  7/3/2024 3:58:15 PM ::1 Returned 304 in 4 ms
+ HTTP  7/3/2024 3:58:15 PM ::1 Returned 304 in 6 ms
+ HTTP  7/3/2024 3:58:15 PM ::1 GET /static/logos/esphome.svg
+ HTTP  7/3/2024 3:58:15 PM ::1 GET /static/logos/squeezelite-esp32.png
+ HTTP  7/3/2024 3:58:15 PM ::1 GET /static/logos/2smart.png
+ HTTP  7/3/2024 3:58:15 PM ::1 GET /static/logos/clockwise.png
+ HTTP  7/3/2024 3:58:15 PM ::1 GET /static/logos/luciferin_logo.png
+ HTTP  7/3/2024 3:58:15 PM ::1 GET /static/logos/openepaperlink.png
+ HTTP  7/3/2024 3:58:15 PM ::1 Returned 304 in 10 ms
+ HTTP  7/3/2024 3:58:15 PM ::1 Returned 304 in 8 ms
+ HTTP  7/3/2024 3:58:15 PM ::1 Returned 304 in 4 ms
+ HTTP  7/3/2024 3:58:15 PM ::1 Returned 304 in 4 ms
+ HTTP  7/3/2024 3:58:15 PM ::1 Returned 304 in 3 ms
+ HTTP  7/3/2024 3:58:15 PM ::1 Returned 304 in 4 ms
+ HTTP  7/3/2024 3:58:15 PM ::1 GET /static/screenshots/dashboard.png
+ HTTP  7/3/2024 3:58:15 PM ::1 GET /static/screenshots/logs.png
+ HTTP  7/3/2024 3:58:15 PM ::1 Returned 304 in 1 ms
+ HTTP  7/3/2024 3:58:15 PM ::1 Returned 304 in 0 ms
+ HTTP  7/3/2024 3:58:18 PM ::1 GET /dist/web/install-dialog-DPPzb0R4.js
+ HTTP  7/3/2024 3:58:18 PM ::1 Returned 200 in 6 ms
+ HTTP  7/3/2024 3:58:18 PM ::1 GET /dist/web/styles-ptKjs46a.js
+ HTTP  7/3/2024 3:58:18 PM ::1 Returned 200 in 12 ms
+ HTTP  7/3/2024 3:58:20 PM ::1 GET /dialog-styles.css.map
+ HTTP  7/3/2024 3:58:20 PM ::1 GET /circular-progress-styles.css.map
+ HTTP  7/3/2024 3:58:20 PM ::1 GET /divider-styles.css.map
+ HTTP  7/3/2024 3:58:20 PM ::1 Returned 404 in 8 ms
+ HTTP  7/3/2024 3:58:20 PM ::1 Returned 404 in 5 ms
+ HTTP  7/3/2024 3:58:20 PM ::1 Returned 404 in 4 ms
+ HTTP  7/3/2024 3:58:22 PM ::1 GET /text-styles.css.map
+ HTTP  7/3/2024 3:58:22 PM ::1 GET /ripple-styles.css.map
+ HTTP  7/3/2024 3:58:22 PM ::1 GET /shared-styles.css.map
+ HTTP  7/3/2024 3:58:22 PM ::1 GET /focus-ring-styles.css.map
+ HTTP  7/3/2024 3:58:22 PM ::1 Returned 404 in 4 ms
+ HTTP  7/3/2024 3:58:22 PM ::1 Returned 404 in 2 ms
+ HTTP  7/3/2024 3:58:22 PM ::1 Returned 404 in 2 ms
+ HTTP  7/3/2024 3:58:22 PM ::1 Returned 404 in 2 ms
+ HTTP  7/3/2024 3:58:23 PM ::1 GET /dist/web/esp8266-B7-ftOqJ.js
+ HTTP  7/3/2024 3:58:23 PM ::1 Returned 200 in 3 ms
+ HTTP  7/3/2024 3:58:23 PM ::1 GET /dist/web/rom-DGwTkJep.js
+ HTTP  7/3/2024 3:58:23 PM ::1 Returned 200 in 3 ms
+c4:04:31 PM - File change detected. Starting incremental compilation...
+
+src/install-dialog.ts(668,13): error TS6133: 'supportsImprov' is declared but its value is never read.
+
+4:04:31 PM - Found 1 error. Watching for file changes.
+c4:05:57 PM - File change detected. Starting incremental compilation...
+
+src/install-dialog.ts(668,13): error TS6133: 'supportsImprov' is declared but its value is never read.
+
+4:05:58 PM - Found 1 error. Watching for file changes.
+src/install-dialog.ts(668,13): error TS6133: 'supportsImprov' is declared but its value is never read.
+c4:06:13 PM - Starting compilation in watch mode...
+
+ UPDATE  The latest version of `serve` is 14.2.3
+ INFO  Accepting connections at http://localhost:65281
+src/install-dialog.ts(668,13): error TS6133: 'supportsImprov' is declared but its value is never read.
+
+4:06:13 PM - Found 1 error. Watching for file changes.
+ HTTP  7/3/2024 4:06:35 PM ::1 GET /
+ HTTP  7/3/2024 4:06:35 PM ::1 Returned 200 in 69 ms
+ HTTP  7/3/2024 4:06:36 PM ::1 GET /static/logos/wled.png
+ HTTP  7/3/2024 4:06:36 PM ::1 GET /static/logos/tasmota.svg
+ HTTP  7/3/2024 4:06:36 PM ::1 Returned 200 in 3 ms
+ HTTP  7/3/2024 4:06:36 PM ::1 GET /dist/web/install-button.js
+ HTTP  7/3/2024 4:06:36 PM ::1 GET /static/logos/espeasy.png
+ HTTP  7/3/2024 4:06:36 PM ::1 GET /static/logos/canairio.png
+ HTTP  7/3/2024 4:06:36 PM ::1 GET /static/logos/esphome.svg
+ HTTP  7/3/2024 4:06:36 PM ::1 Returned 200 in 5 ms
+ HTTP  7/3/2024 4:06:36 PM ::1 GET /static/logos/squeezelite-esp32.png
+ HTTP  7/3/2024 4:06:36 PM ::1 GET /static/logos/2smart.png
+ HTTP  7/3/2024 4:06:36 PM ::1 Returned 200 in 5 ms
+ HTTP  7/3/2024 4:06:36 PM ::1 Returned 200 in 6 ms
+ HTTP  7/3/2024 4:06:36 PM ::1 Returned 200 in 10 ms
+ HTTP  7/3/2024 4:06:36 PM ::1 Returned 200 in 12 ms
+ HTTP  7/3/2024 4:06:36 PM ::1 GET /static/logos/clockwise.png
+ HTTP  7/3/2024 4:06:36 PM ::1 Returned 200 in 11 ms
+ HTTP  7/3/2024 4:06:36 PM ::1 Returned 200 in 16 ms
+ HTTP  7/3/2024 4:06:36 PM ::1 GET /static/logos/luciferin_logo.png
+ HTTP  7/3/2024 4:06:36 PM ::1 GET /static/logos/openepaperlink.png
+ HTTP  7/3/2024 4:06:36 PM ::1 GET /static/screenshots/dashboard.png
+ HTTP  7/3/2024 4:06:36 PM ::1 GET /static/screenshots/logs.png
+ HTTP  7/3/2024 4:06:36 PM ::1 Returned 200 in 11 ms
+ HTTP  7/3/2024 4:06:36 PM ::1 Returned 200 in 3 ms
+ HTTP  7/3/2024 4:06:36 PM ::1 Returned 200 in 3 ms
+ HTTP  7/3/2024 4:06:36 PM ::1 Returned 200 in 3 ms
+ HTTP  7/3/2024 4:06:36 PM ::1 Returned 200 in 2 ms
+ HTTP  7/3/2024 4:06:36 PM ::1 GET /favicon.ico
+ HTTP  7/3/2024 4:06:36 PM ::1 Returned 404 in 3 ms
+ HTTP  7/3/2024 4:06:37 PM ::1 GET /
+ HTTP  7/3/2024 4:06:37 PM ::1 Returned 304 in 2 ms
+ HTTP  7/3/2024 4:06:37 PM ::1 GET /static/logos/wled.png
+ HTTP  7/3/2024 4:06:37 PM ::1 Returned 304 in 2 ms
+ HTTP  7/3/2024 4:06:37 PM ::1 GET /static/logos/tasmota.svg
+ HTTP  7/3/2024 4:06:37 PM ::1 GET /dist/web/install-button.js
+ HTTP  7/3/2024 4:06:37 PM ::1 Returned 304 in 3 ms
+ HTTP  7/3/2024 4:06:37 PM ::1 GET /static/logos/espeasy.png
+ HTTP  7/3/2024 4:06:37 PM ::1 Returned 304 in 2 ms
+ HTTP  7/3/2024 4:06:37 PM ::1 GET /static/logos/canairio.png
+ HTTP  7/3/2024 4:06:37 PM ::1 Returned 304 in 2 ms
+ HTTP  7/3/2024 4:06:37 PM ::1 GET /static/logos/esphome.svg
+ HTTP  7/3/2024 4:06:37 PM ::1 Returned 304 in 3 ms
+ HTTP  7/3/2024 4:06:37 PM ::1 GET /static/logos/2smart.png
+ HTTP  7/3/2024 4:06:37 PM ::1 GET /static/logos/clockwise.png
+ HTTP  7/3/2024 4:06:37 PM ::1 GET /static/logos/squeezelite-esp32.png
+ HTTP  7/3/2024 4:06:37 PM ::1 Returned 304 in 18 ms
+ HTTP  7/3/2024 4:06:37 PM ::1 Returned 304 in 1 ms
+ HTTP  7/3/2024 4:06:37 PM ::1 Returned 304 in 3 ms
+ HTTP  7/3/2024 4:06:37 PM ::1 GET /static/logos/luciferin_logo.png
+ HTTP  7/3/2024 4:06:37 PM ::1 GET /static/logos/openepaperlink.png
+ HTTP  7/3/2024 4:06:37 PM ::1 Returned 304 in 4 ms
+ HTTP  7/3/2024 4:06:37 PM ::1 Returned 304 in 1 ms
+ HTTP  7/3/2024 4:06:37 PM ::1 Returned 304 in 1 ms
+ HTTP  7/3/2024 4:06:37 PM ::1 GET /static/screenshots/logs.png
+ HTTP  7/3/2024 4:06:37 PM ::1 GET /static/screenshots/dashboard.png
+ HTTP  7/3/2024 4:06:37 PM ::1 Returned 304 in 1 ms
+ HTTP  7/3/2024 4:06:37 PM ::1 Returned 304 in 0 ms
+ HTTP  7/3/2024 4:06:40 PM ::1 GET /dist/web/install-dialog--CJ67AZX.js
+ HTTP  7/3/2024 4:06:40 PM ::1 Returned 200 in 20 ms
+ HTTP  7/3/2024 4:06:40 PM ::1 GET /dist/web/styles-ptKjs46a.js
+ HTTP  7/3/2024 4:06:40 PM ::1 Returned 200 in 5 ms
+ HTTP  7/3/2024 4:06:42 PM ::1 GET /dialog-styles.css.map
+ HTTP  7/3/2024 4:06:42 PM ::1 GET /circular-progress-styles.css.map
+ HTTP  7/3/2024 4:06:42 PM ::1 GET /divider-styles.css.map
+ HTTP  7/3/2024 4:06:42 PM ::1 Returned 404 in 12 ms
+ HTTP  7/3/2024 4:06:42 PM ::1 Returned 404 in 5 ms
+ HTTP  7/3/2024 4:06:42 PM ::1 Returned 404 in 10 ms
+ HTTP  7/3/2024 4:06:44 PM ::1 GET /text-styles.css.map
+ HTTP  7/3/2024 4:06:44 PM ::1 GET /shared-styles.css.map
+ HTTP  7/3/2024 4:06:44 PM ::1 GET /ripple-styles.css.map
+ HTTP  7/3/2024 4:06:44 PM ::1 GET /focus-ring-styles.css.map
+ HTTP  7/3/2024 4:06:44 PM ::1 Returned 404 in 4 ms
+ HTTP  7/3/2024 4:06:44 PM ::1 Returned 404 in 2 ms
+ HTTP  7/3/2024 4:06:44 PM ::1 Returned 404 in 2 ms
+ HTTP  7/3/2024 4:06:44 PM ::1 Returned 404 in 3 ms
+ HTTP  7/3/2024 4:06:45 PM ::1 GET /dist/web/esp8266-B7-ftOqJ.js
+ HTTP  7/3/2024 4:06:45 PM ::1 Returned 200 in 5 ms
+ HTTP  7/3/2024 4:06:45 PM ::1 GET /dist/web/rom-DGwTkJep.js
+ HTTP  7/3/2024 4:06:45 PM ::1 Returned 200 in 1 ms
+c4:08:52 PM - File change detected. Starting incremental compilation...
+
+src/install-dialog.ts(668,13): error TS6133: 'supportsImprov' is declared but its value is never read.
+
+4:08:53 PM - Found 1 error. Watching for file changes.
+src/install-dialog.ts(668,13): error TS6133: 'supportsImprov' is declared but its value is never read.
+c4:09:29 PM - Starting compilation in watch mode...
+
+ UPDATE  The latest version of `serve` is 14.2.3
+ INFO  Accepting connections at http://localhost:49755
+src/install-dialog.ts(668,13): error TS6133: 'supportsImprov' is declared but its value is never read.
+
+4:09:30 PM - Found 1 error. Watching for file changes.
+c4:10:40 PM - File change detected. Starting incremental compilation...
+
+
+4:10:40 PM - Found 0 errors. Watching for file changes.
+c4:10:46 PM - Starting compilation in watch mode...
+
+ UPDATE  The latest version of `serve` is 14.2.3
+ INFO  Accepting connections at http://localhost:50080
+
+4:10:47 PM - Found 0 errors. Watching for file changes.
+ HTTP  7/3/2024 4:11:02 PM ::1 GET /
+ HTTP  7/3/2024 4:11:02 PM ::1 Returned 200 in 54 ms
+ HTTP  7/3/2024 4:11:03 PM ::1 GET /static/logos/wled.png
+ HTTP  7/3/2024 4:11:03 PM ::1 GET /static/logos/tasmota.svg
+ HTTP  7/3/2024 4:11:03 PM ::1 Returned 200 in 1 ms
+ HTTP  7/3/2024 4:11:03 PM ::1 Returned 200 in 2 ms
+ HTTP  7/3/2024 4:11:03 PM ::1 GET /dist/web/install-button.js
+ HTTP  7/3/2024 4:11:03 PM ::1 Returned 200 in 2 ms
+ HTTP  7/3/2024 4:11:03 PM ::1 GET /static/logos/espeasy.png
+ HTTP  7/3/2024 4:11:03 PM ::1 GET /static/logos/canairio.png
+ HTTP  7/3/2024 4:11:03 PM ::1 GET /static/logos/esphome.svg
+ HTTP  7/3/2024 4:11:03 PM ::1 GET /static/logos/squeezelite-esp32.png
+ HTTP  7/3/2024 4:11:03 PM ::1 GET /static/logos/2smart.png
+ HTTP  7/3/2024 4:11:03 PM ::1 Returned 200 in 3 ms
+ HTTP  7/3/2024 4:11:03 PM ::1 GET /static/logos/clockwise.png
+ HTTP  7/3/2024 4:11:03 PM ::1 Returned 200 in 2 ms
+ HTTP  7/3/2024 4:11:03 PM ::1 Returned 200 in 2 ms
+ HTTP  7/3/2024 4:11:03 PM ::1 Returned 200 in 3 ms
+ HTTP  7/3/2024 4:11:03 PM ::1 Returned 200 in 3 ms
+ HTTP  7/3/2024 4:11:03 PM ::1 GET /static/logos/luciferin_logo.png
+ HTTP  7/3/2024 4:11:03 PM ::1 GET /static/logos/openepaperlink.png
+ HTTP  7/3/2024 4:11:03 PM ::1 GET /static/screenshots/dashboard.png
+ HTTP  7/3/2024 4:11:03 PM ::1 Returned 200 in 4 ms
+ HTTP  7/3/2024 4:11:03 PM ::1 GET /static/screenshots/logs.png
+ HTTP  7/3/2024 4:11:03 PM ::1 Returned 200 in 3 ms
+ HTTP  7/3/2024 4:11:03 PM ::1 Returned 200 in 1 ms
+ HTTP  7/3/2024 4:11:03 PM ::1 Returned 200 in 1 ms
+ HTTP  7/3/2024 4:11:03 PM ::1 Returned 200 in 1 ms
+ HTTP  7/3/2024 4:11:03 PM ::1 GET /favicon.ico
+ HTTP  7/3/2024 4:11:03 PM ::1 Returned 404 in 2 ms
+ HTTP  7/3/2024 4:11:05 PM ::1 GET /
+ HTTP  7/3/2024 4:11:05 PM ::1 Returned 304 in 4 ms
+ HTTP  7/3/2024 4:11:05 PM ::1 GET /static/logos/wled.png
+ HTTP  7/3/2024 4:11:05 PM ::1 Returned 304 in 1 ms
+ HTTP  7/3/2024 4:11:05 PM ::1 GET /static/logos/tasmota.svg
+ HTTP  7/3/2024 4:11:05 PM ::1 Returned 304 in 0 ms
+ HTTP  7/3/2024 4:11:05 PM ::1 GET /dist/web/install-button.js
+ HTTP  7/3/2024 4:11:05 PM ::1 GET /static/logos/espeasy.png
+ HTTP  7/3/2024 4:11:05 PM ::1 GET /static/logos/canairio.png
+ HTTP  7/3/2024 4:11:05 PM ::1 GET /static/logos/esphome.svg
+ HTTP  7/3/2024 4:11:05 PM ::1 GET /static/logos/squeezelite-esp32.png
+ HTTP  7/3/2024 4:11:05 PM ::1 GET /static/logos/2smart.png
+ HTTP  7/3/2024 4:11:05 PM ::1 Returned 304 in 11 ms
+ HTTP  7/3/2024 4:11:05 PM ::1 Returned 304 in 5 ms
+ HTTP  7/3/2024 4:11:05 PM ::1 Returned 304 in 5 ms
+ HTTP  7/3/2024 4:11:05 PM ::1 Returned 304 in 7 ms
+ HTTP  7/3/2024 4:11:05 PM ::1 Returned 304 in 7 ms
+ HTTP  7/3/2024 4:11:05 PM ::1 GET /static/screenshots/dashboard.png
+ HTTP  7/3/2024 4:11:05 PM ::1 GET /static/logos/openepaperlink.png
+ HTTP  7/3/2024 4:11:05 PM ::1 GET /static/logos/luciferin_logo.png
+ HTTP  7/3/2024 4:11:05 PM ::1 GET /static/logos/clockwise.png
+ HTTP  7/3/2024 4:11:05 PM ::1 Returned 304 in 9 ms
+ HTTP  7/3/2024 4:11:05 PM ::1 Returned 304 in 1 ms
+ HTTP  7/3/2024 4:11:05 PM ::1 Returned 304 in 2 ms
+ HTTP  7/3/2024 4:11:05 PM ::1 Returned 304 in 2 ms
+ HTTP  7/3/2024 4:11:05 PM ::1 GET /static/screenshots/logs.png
+ HTTP  7/3/2024 4:11:05 PM ::1 Returned 304 in 2 ms
+ HTTP  7/3/2024 4:11:05 PM ::1 Returned 304 in 1 ms
+ HTTP  7/3/2024 4:11:06 PM ::1 GET /dist/web/install-dialog-DfrwwYP9.js
+ HTTP  7/3/2024 4:11:06 PM ::1 Returned 200 in 6 ms
+ HTTP  7/3/2024 4:11:06 PM ::1 GET /dist/web/styles-ptKjs46a.js
+ HTTP  7/3/2024 4:11:06 PM ::1 Returned 200 in 3 ms
+ HTTP  7/3/2024 4:11:08 PM ::1 GET /circular-progress-styles.css.map
+ HTTP  7/3/2024 4:11:09 PM ::1 GET /divider-styles.css.map
+ HTTP  7/3/2024 4:11:09 PM ::1 GET /dialog-styles.css.map
+ HTTP  7/3/2024 4:11:08 PM ::1 Returned 404 in 20 ms
+ HTTP  7/3/2024 4:11:09 PM ::1 Returned 404 in 3 ms
+ HTTP  7/3/2024 4:11:09 PM ::1 Returned 404 in 3 ms
+ HTTP  7/3/2024 4:11:11 PM ::1 GET /dist/web/esp8266-B7-ftOqJ.js
+ HTTP  7/3/2024 4:11:11 PM ::1 Returned 200 in 6 ms
+ HTTP  7/3/2024 4:11:11 PM ::1 GET /dist/web/rom-DGwTkJep.js
+ HTTP  7/3/2024 4:11:11 PM ::1 Returned 200 in 1 ms
+ HTTP  7/3/2024 4:11:58 PM ::1 GET /focus-ring-styles.css.map
+ HTTP  7/3/2024 4:11:58 PM ::1 GET /ripple-styles.css.map
+ HTTP  7/3/2024 4:11:58 PM ::1 GET /text-styles.css.map
+ HTTP  7/3/2024 4:11:58 PM ::1 GET /shared-styles.css.map
+ HTTP  7/3/2024 4:11:58 PM ::1 Returned 404 in 7 ms
+ HTTP  7/3/2024 4:11:58 PM ::1 Returned 404 in 4 ms
+ HTTP  7/3/2024 4:11:58 PM ::1 Returned 404 in 4 ms
+ HTTP  7/3/2024 4:11:58 PM ::1 Returned 404 in 4 ms
+c4:18:06 PM - Starting compilation in watch mode...
+
+ UPDATE  The latest version of `serve` is 14.2.3
+ INFO  Accepting connections at http://localhost:51958
+
+4:18:07 PM - Found 0 errors. Watching for file changes.
+ HTTP  7/3/2024 4:18:19 PM ::1 GET /
+ HTTP  7/3/2024 4:18:19 PM ::1 Returned 200 in 55 ms
+ HTTP  7/3/2024 4:18:19 PM ::1 GET /static/logos/wled.png
+ HTTP  7/3/2024 4:18:19 PM ::1 GET /static/logos/tasmota.svg
+ HTTP  7/3/2024 4:18:19 PM ::1 Returned 200 in 2 ms
+ HTTP  7/3/2024 4:18:19 PM ::1 Returned 200 in 2 ms
+ HTTP  7/3/2024 4:18:19 PM ::1 GET /dist/web/install-button.js
+ HTTP  7/3/2024 4:18:19 PM ::1 GET /static/logos/espeasy.png
+ HTTP  7/3/2024 4:18:19 PM ::1 GET /static/logos/canairio.png
+ HTTP  7/3/2024 4:18:19 PM ::1 GET /static/logos/esphome.svg
+ HTTP  7/3/2024 4:18:19 PM ::1 GET /static/logos/squeezelite-esp32.png
+ HTTP  7/3/2024 4:18:19 PM ::1 GET /static/logos/2smart.png
+ HTTP  7/3/2024 4:18:19 PM ::1 Returned 200 in 5 ms
+ HTTP  7/3/2024 4:18:19 PM ::1 Returned 200 in 3 ms
+ HTTP  7/3/2024 4:18:19 PM ::1 Returned 200 in 3 ms
+ HTTP  7/3/2024 4:18:19 PM ::1 Returned 200 in 3 ms
+ HTTP  7/3/2024 4:18:19 PM ::1 Returned 200 in 3 ms
+ HTTP  7/3/2024 4:18:19 PM ::1 Returned 200 in 4 ms
+ HTTP  7/3/2024 4:18:19 PM ::1 GET /static/logos/clockwise.png
+ HTTP  7/3/2024 4:18:19 PM ::1 GET /static/logos/luciferin_logo.png
+ HTTP  7/3/2024 4:18:19 PM ::1 GET /static/logos/openepaperlink.png
+ HTTP  7/3/2024 4:18:19 PM ::1 GET /static/screenshots/dashboard.png
+ HTTP  7/3/2024 4:18:19 PM ::1 GET /static/screenshots/logs.png
+ HTTP  7/3/2024 4:18:19 PM ::1 Returned 200 in 3 ms
+ HTTP  7/3/2024 4:18:19 PM ::1 Returned 200 in 1 ms
+ HTTP  7/3/2024 4:18:19 PM ::1 Returned 200 in 3 ms
+ HTTP  7/3/2024 4:18:19 PM ::1 Returned 200 in 2 ms
+ HTTP  7/3/2024 4:18:19 PM ::1 Returned 200 in 2 ms
+ HTTP  7/3/2024 4:18:19 PM ::1 GET /favicon.ico
+ HTTP  7/3/2024 4:18:19 PM ::1 Returned 404 in 1 ms
+ HTTP  7/3/2024 4:18:20 PM ::1 GET /
+ HTTP  7/3/2024 4:18:20 PM ::1 Returned 304 in 2 ms
+ HTTP  7/3/2024 4:18:20 PM ::1 GET /static/logos/wled.png
+ HTTP  7/3/2024 4:18:20 PM ::1 GET /static/logos/tasmota.svg
+ HTTP  7/3/2024 4:18:20 PM ::1 GET /dist/web/install-button.js
+ HTTP  7/3/2024 4:18:20 PM ::1 GET /static/logos/espeasy.png
+ HTTP  7/3/2024 4:18:20 PM ::1 GET /static/logos/canairio.png
+ HTTP  7/3/2024 4:18:20 PM ::1 GET /static/logos/esphome.svg
+ HTTP  7/3/2024 4:18:20 PM ::1 Returned 304 in 2 ms
+ HTTP  7/3/2024 4:18:20 PM ::1 Returned 304 in 2 ms
+ HTTP  7/3/2024 4:18:20 PM ::1 Returned 304 in 2 ms
+ HTTP  7/3/2024 4:18:20 PM ::1 Returned 304 in 2 ms
+ HTTP  7/3/2024 4:18:20 PM ::1 Returned 304 in 1 ms
+ HTTP  7/3/2024 4:18:20 PM ::1 Returned 304 in 1 ms
+ HTTP  7/3/2024 4:18:20 PM ::1 GET /static/logos/squeezelite-esp32.png
+ HTTP  7/3/2024 4:18:20 PM ::1 GET /static/logos/luciferin_logo.png
+ HTTP  7/3/2024 4:18:20 PM ::1 GET /static/logos/2smart.png
+ HTTP  7/3/2024 4:18:20 PM ::1 GET /static/logos/clockwise.png
+ HTTP  7/3/2024 4:18:20 PM ::1 GET /static/logos/openepaperlink.png
+ HTTP  7/3/2024 4:18:20 PM ::1 GET /static/screenshots/dashboard.png
+ HTTP  7/3/2024 4:18:20 PM ::1 Returned 304 in 1 ms
+ HTTP  7/3/2024 4:18:20 PM ::1 Returned 304 in 2 ms
+ HTTP  7/3/2024 4:18:20 PM ::1 Returned 304 in 1 ms
+ HTTP  7/3/2024 4:18:20 PM ::1 Returned 304 in 1 ms
+ HTTP  7/3/2024 4:18:20 PM ::1 Returned 304 in 1 ms
+ HTTP  7/3/2024 4:18:20 PM ::1 Returned 304 in 1 ms
+ HTTP  7/3/2024 4:18:20 PM ::1 GET /static/screenshots/logs.png
+ HTTP  7/3/2024 4:18:20 PM ::1 Returned 304 in 0 ms
+ HTTP  7/3/2024 4:18:26 PM ::1 GET /dist/web/install-dialog-DfrwwYP9.js
+ HTTP  7/3/2024 4:18:26 PM ::1 Returned 200 in 6 ms
+ HTTP  7/3/2024 4:18:26 PM ::1 GET /dist/web/styles-ptKjs46a.js
+ HTTP  7/3/2024 4:18:26 PM ::1 Returned 200 in 2 ms
+ HTTP  7/3/2024 4:18:28 PM ::1 GET /dialog-styles.css.map
+ HTTP  7/3/2024 4:18:28 PM ::1 GET /divider-styles.css.map
+ HTTP  7/3/2024 4:18:28 PM ::1 GET /circular-progress-styles.css.map
+ HTTP  7/3/2024 4:18:28 PM ::1 Returned 404 in 8 ms
+ HTTP  7/3/2024 4:18:28 PM ::1 Returned 404 in 4 ms
+ HTTP  7/3/2024 4:18:28 PM ::1 Returned 404 in 3 ms
+ HTTP  7/3/2024 4:18:30 PM ::1 GET /text-styles.css.map
+ HTTP  7/3/2024 4:18:30 PM ::1 GET /focus-ring-styles.css.map
+ HTTP  7/3/2024 4:18:30 PM ::1 GET /shared-styles.css.map
+ HTTP  7/3/2024 4:18:30 PM ::1 GET /ripple-styles.css.map
+ HTTP  7/3/2024 4:18:30 PM ::1 Returned 404 in 12 ms
+ HTTP  7/3/2024 4:18:30 PM ::1 Returned 404 in 11 ms
+ HTTP  7/3/2024 4:18:30 PM ::1 Returned 404 in 14 ms
+ HTTP  7/3/2024 4:18:30 PM ::1 Returned 404 in 14 ms
+ HTTP  7/3/2024 4:18:31 PM ::1 GET /dist/web/esp8266-B7-ftOqJ.js
+ HTTP  7/3/2024 4:18:31 PM ::1 Returned 200 in 3 ms
+ HTTP  7/3/2024 4:18:31 PM ::1 GET /dist/web/rom-DGwTkJep.js
+ HTTP  7/3/2024 4:18:31 PM ::1 Returned 200 in 1 ms
+c4:18:58 PM - File change detected. Starting incremental compilation...
+
+
+4:18:59 PM - Found 0 errors. Watching for file changes.
+c4:19:06 PM - Starting compilation in watch mode...
+
+ UPDATE  The latest version of `serve` is 14.2.3
+ INFO  Accepting connections at http://localhost:52230
+
+4:19:06 PM - Found 0 errors. Watching for file changes.
+ HTTP  7/3/2024 4:19:23 PM ::1 GET /
+ HTTP  7/3/2024 4:19:23 PM ::1 Returned 200 in 72 ms
+ HTTP  7/3/2024 4:19:23 PM ::1 GET /static/logos/wled.png
+ HTTP  7/3/2024 4:19:23 PM ::1 GET /static/logos/tasmota.svg
+ HTTP  7/3/2024 4:19:23 PM ::1 GET /dist/web/install-button.js
+ HTTP  7/3/2024 4:19:23 PM ::1 Returned 200 in 8 ms
+ HTTP  7/3/2024 4:19:23 PM ::1 Returned 200 in 9 ms
+ HTTP  7/3/2024 4:19:23 PM ::1 GET /static/logos/espeasy.png
+ HTTP  7/3/2024 4:19:23 PM ::1 GET /static/logos/canairio.png
+ HTTP  7/3/2024 4:19:23 PM ::1 GET /static/logos/esphome.svg
+ HTTP  7/3/2024 4:19:23 PM ::1 Returned 200 in 8 ms
+ HTTP  7/3/2024 4:19:23 PM ::1 GET /static/logos/squeezelite-esp32.png
+ HTTP  7/3/2024 4:19:23 PM ::1 GET /static/logos/2smart.png
+ HTTP  7/3/2024 4:19:23 PM ::1 Returned 200 in 7 ms
+ HTTP  7/3/2024 4:19:23 PM ::1 Returned 200 in 8 ms
+ HTTP  7/3/2024 4:19:23 PM ::1 Returned 200 in 5 ms
+ HTTP  7/3/2024 4:19:23 PM ::1 GET /static/logos/clockwise.png
+ HTTP  7/3/2024 4:19:23 PM ::1 Returned 200 in 5 ms
+ HTTP  7/3/2024 4:19:23 PM ::1 Returned 200 in 6 ms
+ HTTP  7/3/2024 4:19:23 PM ::1 GET /static/logos/luciferin_logo.png
+ HTTP  7/3/2024 4:19:23 PM ::1 GET /static/logos/openepaperlink.png
+ HTTP  7/3/2024 4:19:23 PM ::1 GET /static/screenshots/dashboard.png
+ HTTP  7/3/2024 4:19:23 PM ::1 GET /static/screenshots/logs.png
+ HTTP  7/3/2024 4:19:23 PM ::1 Returned 200 in 5 ms
+ HTTP  7/3/2024 4:19:23 PM ::1 Returned 200 in 4 ms
+ HTTP  7/3/2024 4:19:23 PM ::1 Returned 200 in 2 ms
+ HTTP  7/3/2024 4:19:23 PM ::1 Returned 200 in 1 ms
+ HTTP  7/3/2024 4:19:23 PM ::1 Returned 200 in 1 ms
+ HTTP  7/3/2024 4:19:23 PM ::1 GET /favicon.ico
+ HTTP  7/3/2024 4:19:23 PM ::1 Returned 404 in 2 ms
+ HTTP  7/3/2024 4:19:25 PM ::1 GET /
+ HTTP  7/3/2024 4:19:25 PM ::1 Returned 304 in 4 ms
+ HTTP  7/3/2024 4:19:25 PM ::1 GET /static/logos/wled.png
+ HTTP  7/3/2024 4:19:25 PM ::1 GET /static/logos/tasmota.svg
+ HTTP  7/3/2024 4:19:25 PM ::1 GET /dist/web/install-button.js
+ HTTP  7/3/2024 4:19:25 PM ::1 GET /static/logos/espeasy.png
+ HTTP  7/3/2024 4:19:25 PM ::1 GET /static/logos/esphome.svg
+ HTTP  7/3/2024 4:19:25 PM ::1 GET /static/logos/canairio.png
+ HTTP  7/3/2024 4:19:25 PM ::1 Returned 304 in 2 ms
+ HTTP  7/3/2024 4:19:25 PM ::1 Returned 304 in 3 ms
+ HTTP  7/3/2024 4:19:25 PM ::1 Returned 304 in 2 ms
+ HTTP  7/3/2024 4:19:25 PM ::1 Returned 304 in 3 ms
+ HTTP  7/3/2024 4:19:25 PM ::1 Returned 304 in 3 ms
+ HTTP  7/3/2024 4:19:25 PM ::1 Returned 304 in 4 ms
+ HTTP  7/3/2024 4:19:25 PM ::1 GET /static/logos/squeezelite-esp32.png
+ HTTP  7/3/2024 4:19:25 PM ::1 GET /static/logos/2smart.png
+ HTTP  7/3/2024 4:19:25 PM ::1 GET /static/logos/clockwise.png
+ HTTP  7/3/2024 4:19:25 PM ::1 GET /static/logos/luciferin_logo.png
+ HTTP  7/3/2024 4:19:25 PM ::1 GET /static/logos/openepaperlink.png
+ HTTP  7/3/2024 4:19:25 PM ::1 Returned 304 in 2 ms
+ HTTP  7/3/2024 4:19:25 PM ::1 Returned 304 in 2 ms
+ HTTP  7/3/2024 4:19:25 PM ::1 Returned 304 in 2 ms
+ HTTP  7/3/2024 4:19:25 PM ::1 Returned 304 in 2 ms
+ HTTP  7/3/2024 4:19:25 PM ::1 GET /static/screenshots/dashboard.png
+ HTTP  7/3/2024 4:19:25 PM ::1 Returned 304 in 2 ms
+ HTTP  7/3/2024 4:19:25 PM ::1 Returned 304 in 0 ms
+ HTTP  7/3/2024 4:19:25 PM ::1 GET /static/screenshots/logs.png
+ HTTP  7/3/2024 4:19:25 PM ::1 Returned 304 in 1 ms
+ HTTP  7/3/2024 4:19:31 PM ::1 GET /dist/web/install-dialog-DfrwwYP9.js
+ HTTP  7/3/2024 4:19:31 PM ::1 Returned 200 in 34 ms
+ HTTP  7/3/2024 4:19:31 PM ::1 GET /dist/web/styles-ptKjs46a.js
+ HTTP  7/3/2024 4:19:31 PM ::1 Returned 200 in 1 ms
+ HTTP  7/3/2024 4:19:33 PM ::1 GET /circular-progress-styles.css.map
+ HTTP  7/3/2024 4:19:33 PM ::1 GET /dialog-styles.css.map
+ HTTP  7/3/2024 4:19:33 PM ::1 GET /divider-styles.css.map
+ HTTP  7/3/2024 4:19:33 PM ::1 Returned 404 in 20 ms
+ HTTP  7/3/2024 4:19:33 PM ::1 Returned 404 in 20 ms
+ HTTP  7/3/2024 4:19:33 PM ::1 Returned 404 in 25 ms
+ HTTP  7/3/2024 4:19:35 PM ::1 GET /dist/web/esp8266-B7-ftOqJ.js
+ HTTP  7/3/2024 4:19:35 PM ::1 Returned 200 in 5 ms
+ HTTP  7/3/2024 4:19:35 PM ::1 GET /dist/web/rom-DGwTkJep.js
+ HTTP  7/3/2024 4:19:35 PM ::1 Returned 200 in 2 ms
+ HTTP  7/3/2024 4:20:22 PM ::1 GET /ripple-styles.css.map
+ HTTP  7/3/2024 4:20:22 PM ::1 GET /focus-ring-styles.css.map
+ HTTP  7/3/2024 4:20:22 PM ::1 GET /shared-styles.css.map
+ HTTP  7/3/2024 4:20:22 PM ::1 GET /text-styles.css.map
+ HTTP  7/3/2024 4:20:22 PM ::1 Returned 404 in 21 ms
+ HTTP  7/3/2024 4:20:22 PM ::1 Returned 404 in 4 ms
+ HTTP  7/3/2024 4:20:22 PM ::1 Returned 404 in 9 ms
+ HTTP  7/3/2024 4:20:22 PM ::1 Returned 404 in 10 ms
+c4:25:09 PM - File change detected. Starting incremental compilation...
+
+src/install-dialog.ts(884,13): error TS2532: Object is possibly 'undefined'.
+
+4:25:09 PM - Found 1 error. Watching for file changes.
+c4:25:56 PM - File change detected. Starting incremental compilation...
+
+
+4:25:56 PM - Found 0 errors. Watching for file changes.
+c4:26:07 PM - Starting compilation in watch mode...
+
+ UPDATE  The latest version of `serve` is 14.2.3
+ INFO  Accepting connections at http://localhost:54038
+
+4:26:08 PM - Found 0 errors. Watching for file changes.
+ HTTP  7/3/2024 4:26:30 PM ::1 GET /
+ HTTP  7/3/2024 4:26:30 PM ::1 Returned 200 in 97 ms
+ HTTP  7/3/2024 4:26:30 PM ::1 GET /static/logos/wled.png
+ HTTP  7/3/2024 4:26:30 PM ::1 GET /static/logos/tasmota.svg
+ HTTP  7/3/2024 4:26:30 PM ::1 Returned 200 in 5 ms
+ HTTP  7/3/2024 4:26:30 PM ::1 Returned 200 in 4 ms
+ HTTP  7/3/2024 4:26:30 PM ::1 GET /dist/web/install-button.js
+ HTTP  7/3/2024 4:26:30 PM ::1 GET /static/logos/espeasy.png
+ HTTP  7/3/2024 4:26:30 PM ::1 GET /static/logos/canairio.png
+ HTTP  7/3/2024 4:26:30 PM ::1 GET /static/logos/esphome.svg
+ HTTP  7/3/2024 4:26:30 PM ::1 GET /static/logos/squeezelite-esp32.png
+ HTTP  7/3/2024 4:26:30 PM ::1 Returned 200 in 7 ms
+ HTTP  7/3/2024 4:26:30 PM ::1 Returned 200 in 2 ms
+ HTTP  7/3/2024 4:26:30 PM ::1 GET /static/logos/2smart.png
+ HTTP  7/3/2024 4:26:30 PM ::1 Returned 200 in 2 ms
+ HTTP  7/3/2024 4:26:30 PM ::1 Returned 200 in 4 ms
+ HTTP  7/3/2024 4:26:30 PM ::1 GET /static/logos/clockwise.png
+ HTTP  7/3/2024 4:26:30 PM ::1 Returned 200 in 4 ms
+ HTTP  7/3/2024 4:26:30 PM ::1 GET /static/logos/luciferin_logo.png
+ HTTP  7/3/2024 4:26:30 PM ::1 GET /static/logos/openepaperlink.png
+ HTTP  7/3/2024 4:26:30 PM ::1 Returned 200 in 4 ms
+ HTTP  7/3/2024 4:26:30 PM ::1 GET /static/screenshots/dashboard.png
+ HTTP  7/3/2024 4:26:30 PM ::1 GET /static/screenshots/logs.png
+ HTTP  7/3/2024 4:26:30 PM ::1 Returned 200 in 4 ms
+ HTTP  7/3/2024 4:26:30 PM ::1 Returned 200 in 3 ms
+ HTTP  7/3/2024 4:26:30 PM ::1 Returned 200 in 4 ms
+ HTTP  7/3/2024 4:26:30 PM ::1 Returned 200 in 2 ms
+ HTTP  7/3/2024 4:26:30 PM ::1 Returned 200 in 2 ms
+ HTTP  7/3/2024 4:26:30 PM ::1 GET /favicon.ico
+ HTTP  7/3/2024 4:26:30 PM ::1 Returned 404 in 2 ms
+ HTTP  7/3/2024 4:26:32 PM ::1 GET /
+ HTTP  7/3/2024 4:26:32 PM ::1 Returned 304 in 3 ms
+ HTTP  7/3/2024 4:26:32 PM ::1 GET /static/logos/wled.png
+ HTTP  7/3/2024 4:26:32 PM ::1 GET /static/logos/tasmota.svg
+ HTTP  7/3/2024 4:26:32 PM ::1 Returned 304 in 2 ms
+ HTTP  7/3/2024 4:26:32 PM ::1 Returned 304 in 1 ms
+ HTTP  7/3/2024 4:26:32 PM ::1 GET /static/logos/espeasy.png
+ HTTP  7/3/2024 4:26:32 PM ::1 GET /dist/web/install-button.js
+ HTTP  7/3/2024 4:26:32 PM ::1 GET /static/logos/canairio.png
+ HTTP  7/3/2024 4:26:32 PM ::1 Returned 304 in 1 ms
+ HTTP  7/3/2024 4:26:32 PM ::1 Returned 304 in 2 ms
+ HTTP  7/3/2024 4:26:32 PM ::1 Returned 304 in 1 ms
+ HTTP  7/3/2024 4:26:32 PM ::1 GET /static/logos/esphome.svg
+ HTTP  7/3/2024 4:26:32 PM ::1 GET /static/logos/clockwise.png
+ HTTP  7/3/2024 4:26:32 PM ::1 GET /static/logos/luciferin_logo.png
+ HTTP  7/3/2024 4:26:32 PM ::1 GET /static/logos/openepaperlink.png
+ HTTP  7/3/2024 4:26:32 PM ::1 GET /static/logos/squeezelite-esp32.png
+ HTTP  7/3/2024 4:26:32 PM ::1 Returned 304 in 2 ms
+ HTTP  7/3/2024 4:26:32 PM ::1 Returned 304 in 1 ms
+ HTTP  7/3/2024 4:26:32 PM ::1 Returned 304 in 2 ms
+ HTTP  7/3/2024 4:26:32 PM ::1 Returned 304 in 2 ms
+ HTTP  7/3/2024 4:26:32 PM ::1 Returned 304 in 1 ms
+ HTTP  7/3/2024 4:26:32 PM ::1 GET /static/logos/2smart.png
+ HTTP  7/3/2024 4:26:32 PM ::1 Returned 304 in 2 ms
+ HTTP  7/3/2024 4:26:32 PM ::1 GET /static/screenshots/dashboard.png
+ HTTP  7/3/2024 4:26:32 PM ::1 Returned 304 in 1 ms
+ HTTP  7/3/2024 4:26:32 PM ::1 GET /static/screenshots/logs.png
+ HTTP  7/3/2024 4:26:32 PM ::1 Returned 304 in 1 ms
+ HTTP  7/3/2024 4:26:33 PM ::1 GET /dist/web/install-dialog-BmSR53oA.js
+ HTTP  7/3/2024 4:26:33 PM ::1 Returned 200 in 6 ms
+ HTTP  7/3/2024 4:26:33 PM ::1 GET /dist/web/styles-ptKjs46a.js
+ HTTP  7/3/2024 4:26:33 PM ::1 Returned 200 in 3 ms
+ HTTP  7/3/2024 4:26:35 PM ::1 GET /circular-progress-styles.css.map
+ HTTP  7/3/2024 4:26:35 PM ::1 GET /dialog-styles.css.map
+ HTTP  7/3/2024 4:26:35 PM ::1 GET /divider-styles.css.map
+ HTTP  7/3/2024 4:26:35 PM ::1 Returned 404 in 4 ms
+ HTTP  7/3/2024 4:26:35 PM ::1 Returned 404 in 2 ms
+ HTTP  7/3/2024 4:26:35 PM ::1 Returned 404 in 3 ms
+ HTTP  7/3/2024 4:26:37 PM ::1 GET /dist/web/esp8266-B7-ftOqJ.js
+ HTTP  7/3/2024 4:26:37 PM ::1 Returned 200 in 3 ms
+ HTTP  7/3/2024 4:26:37 PM ::1 GET /dist/web/rom-DGwTkJep.js
+ HTTP  7/3/2024 4:26:37 PM ::1 Returned 200 in 2 ms
+ HTTP  7/3/2024 4:26:55 PM ::1 GET /
+ HTTP  7/3/2024 4:26:55 PM ::1 Returned 304 in 24 ms
+ HTTP  7/3/2024 4:26:55 PM ::1 GET /static/logos/wled.png
+ HTTP  7/3/2024 4:26:55 PM ::1 Returned 304 in 1 ms
+ HTTP  7/3/2024 4:26:55 PM ::1 GET /dist/web/install-button.js
+ HTTP  7/3/2024 4:26:55 PM ::1 GET /static/logos/tasmota.svg
+ HTTP  7/3/2024 4:26:55 PM ::1 GET /static/logos/espeasy.png
+ HTTP  7/3/2024 4:26:55 PM ::1 GET /static/logos/canairio.png
+ HTTP  7/3/2024 4:26:55 PM ::1 Returned 304 in 2 ms
+ HTTP  7/3/2024 4:26:55 PM ::1 Returned 304 in 2 ms
+ HTTP  7/3/2024 4:26:55 PM ::1 Returned 304 in 1 ms
+ HTTP  7/3/2024 4:26:55 PM ::1 Returned 304 in 1 ms
+ HTTP  7/3/2024 4:26:55 PM ::1 GET /static/logos/esphome.svg
+ HTTP  7/3/2024 4:26:55 PM ::1 GET /static/logos/squeezelite-esp32.png
+ HTTP  7/3/2024 4:26:55 PM ::1 Returned 304 in 1 ms
+ HTTP  7/3/2024 4:26:55 PM ::1 Returned 304 in 1 ms
+ HTTP  7/3/2024 4:26:55 PM ::1 GET /static/logos/2smart.png
+ HTTP  7/3/2024 4:26:55 PM ::1 GET /static/logos/clockwise.png
+ HTTP  7/3/2024 4:26:55 PM ::1 GET /static/logos/luciferin_logo.png
+ HTTP  7/3/2024 4:26:55 PM ::1 GET /static/logos/openepaperlink.png
+ HTTP  7/3/2024 4:26:55 PM ::1 Returned 304 in 2 ms
+ HTTP  7/3/2024 4:26:55 PM ::1 Returned 304 in 1 ms
+ HTTP  7/3/2024 4:26:55 PM ::1 Returned 304 in 2 ms
+ HTTP  7/3/2024 4:26:55 PM ::1 GET /static/screenshots/dashboard.png
+ HTTP  7/3/2024 4:26:55 PM ::1 GET /static/screenshots/logs.png
+ HTTP  7/3/2024 4:26:55 PM ::1 Returned 304 in 8 ms
+ HTTP  7/3/2024 4:26:55 PM ::1 Returned 304 in 7 ms
+ HTTP  7/3/2024 4:26:55 PM ::1 Returned 304 in 6 ms

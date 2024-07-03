@@ -121,9 +121,15 @@ export class EwtInstallDialog extends LitElement {
     } else if (this._state === "ERROR") {
       [heading, content] = this._renderError(this._error!);
     } else if (this._state === "DASHBOARD") {
-      [heading, content, allowClosing] = this._client
-        ? this._renderDashboard()
-        : this._renderDashboardNoImprov();
+      //this._state = "INSTALL";
+      //this._state = "INSTALL";
+      //this._confirmInstall;
+      this._startInstall(true);
+      [heading, content, allowClosing] = this._renderInstall();
+
+      
+      
+       //this._renderProgress();
     } else if (this._state === "PROVISION") {
       [heading, content] = this._renderProvision();
     } else if (this._state === "LOGS") {
@@ -568,6 +574,9 @@ export class EwtInstallDialog extends LitElement {
     let content: TemplateResult;
     const allowClosing = false;
 
+    
+   
+
     const isUpdate = !this._installErase && this._isSameFirmware;
 
     if (!this._installConfirmed && this._isSameVersion) {
@@ -611,6 +620,7 @@ export class EwtInstallDialog extends LitElement {
           </ew-text-button>
         </div>
       `;
+      this._confirmInstall();
     } else if (
       !this._installState ||
       this._installState.state === FlashStateType.INITIALIZING ||
@@ -655,7 +665,7 @@ export class EwtInstallDialog extends LitElement {
       );
     } else if (this._installState.state === FlashStateType.FINISHED) {
       heading = undefined;
-      const supportsImprov = this._client !== null;
+     // const supportsImprov = this._client !== null;
       content = html`
         <ewt-page-message
           slot="content"
@@ -665,14 +675,8 @@ export class EwtInstallDialog extends LitElement {
 
         <div slot="actions">
           <ew-text-button
-            @click=${() => {
-              this._state =
-                supportsImprov && this._installErase
-                  ? "PROVISION"
-                  : "DASHBOARD";
-            }}
-          >
-            Next
+            @click=${this._closeDialog}>
+            Close
           </ew-text-button>
         </div>
       `;
@@ -860,6 +864,8 @@ export class EwtInstallDialog extends LitElement {
       this._error = "Failed to download manifest";
       return;
     }
+
+    this._manifest.new_install_improv_wait_time = 0;
 
     if (this._manifest.new_install_improv_wait_time === 0) {
       this._client = null;

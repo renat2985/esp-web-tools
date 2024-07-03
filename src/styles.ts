@@ -10,7 +10,7 @@ export const dialogStyles = css`
     --text-color: rgba(0, 0, 0, 0.6);
     --danger-color: #db4437;
 
-    --md-sys-color-primary: #03a9f4;
+    --md-sys-color-primary: #f4801f;
     --md-sys-color-on-primary: #fff;
     --md-ref-typeface-brand: var(--roboto-font);
     --md-ref-typeface-plain: var(--roboto-font);
